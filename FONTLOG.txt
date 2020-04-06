@@ -1,5 +1,5 @@
 FONTLOG
-Nuosu SIL font
+Nuosu SIL
 ========================
 
 
@@ -11,10 +11,9 @@ any derivative works.
 Basic Font Information
 ----------------------
 
-The SIL Yi Font was developed in 2000 as a single Unicode 
+Nuoso SIL (originally SIL Yi) was developed in 2000 as a single Unicode 
 font for the standardized Yi script used by a large ethnic group in 
-southwestern China. It can be used in certain Windows applications that 
-support Unicode.
+southwestern China.
 
 The traditional Yi scripts have been in use for centuries, and have a
 tremendous number of local variants. The script was standardized in the
@@ -33,15 +32,19 @@ One font is included in this release:
 
 	* Nuosu SIL Regular
 
-SIL International is the creator of the Nuosu SIL/SIL Yi fonts.
+SIL International is the creator of the Nuosu SIL fonts.
 
 
 ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+9 April 2020 Version 2.100
+- Build changed to use UFO+designspace workflow
+- Corrected shape of U+300D
+
 8 December 2008 Version 2.001
-- name changed to Nuosu SIL
+- Name changed to Nuosu SIL
 
 19 April 2007 Version 1.2 OFL release.
 
@@ -50,28 +53,16 @@ September 2002 Keyman keyboard released
 10 April 2000 Version 1.1 released.
 
 
-
-Information for Developers
---------------------------
+Information for Contributors
+----------------------------
 
 The release of Nuosu SIL under the OFL license provides a means for people
 to improve the fonts as needed. For information on what you're allowed to
-changeor modify, consult the OFL and OFL-FAQ.
+change or modify, consult the OFL and OFL-FAQ.
 
 At this point we are not actively soliciting contributions to the project.
 Although we will remain the package maintainer, we do not currently
 plan major upgrades, but will gratefully accept bug reports.
-
-Linux packages: Please contact the upstream maintainer of the various
-packages - nicolas.spalinger@sil.org - if you want to help package or
-maintain a package.
-
-Source files: This package contains Fontographer databases for each font.
-These were the original sources for older versions of the fonts. The
-current fonts were later modified to change the font metadata, and so the
-databases do not directly correspond to the released fonts. These
-databases do, however, provide you with access to the original PostScript
-curve data, and are made available for your convenience.
 
 
 Acknowledgements
@@ -82,12 +73,10 @@ and description (D). This list is sorted by last name in alphabetical order.)
 
 N: Peter Constable, Alex Kotlar, Peter Martin
 E: fonts@sil.org
-W: http://scripts.sil.org/SILYi_home
+W: https://software.sil.org/nuosu/
 D: SIL font engineers and designers
 
-The SIL Yi project is maintained by SIL International.
+The Nuosu SIL project is maintained by SIL International.
 
-For more information please visit the Nuosu SIL/SIL Yi page on SIL International's
-Computers and Writing systems website: http://scripts.sil.org/SILYi_home
-
-Or send an email to <fonts@sil.org>
+For more information please visit the Nuosu SIL page on SIL International's
+Computers and Writing systems website: https://software.sil.org/nuosu/
