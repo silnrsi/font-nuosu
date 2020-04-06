@@ -39,9 +39,11 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-9 April 2020 Version 2.100
+9 April 2020 Version 2.200
 - Build changed to use UFO+designspace workflow
 - Corrected shape of U+300D
+
+9 July 2009 Version 2.1.1
 
 8 December 2008 Version 2.001
 - Name changed to Nuosu SIL
