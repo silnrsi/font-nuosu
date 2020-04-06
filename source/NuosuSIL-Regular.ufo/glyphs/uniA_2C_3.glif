@@ -74,10 +74,4 @@
       <point x="1199" y="673" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <string>b''</string>
-    </dict>
-  </lib>
 </glyph>

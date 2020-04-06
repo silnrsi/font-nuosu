@@ -43,10 +43,4 @@
       <point x="1154" y="588" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <string>b''</string>
-    </dict>
-  </lib>
 </glyph>

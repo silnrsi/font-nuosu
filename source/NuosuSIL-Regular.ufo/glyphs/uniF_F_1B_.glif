@@ -70,10 +70,4 @@
     </contour>
     <component base="uniFF0C" xScale="0.1" yScale="0.1" xOffset="290" yOffset="-4"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <string>b''</string>
-    </dict>
-  </lib>
 </glyph>

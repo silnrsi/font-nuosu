@@ -7,17 +7,5 @@
       <point x="86" y="556" type="line"/>
       <point x="623" y="556" type="line"/>
     </contour>
-    <contour>
-      <point x="0" y="1559" type="move"/>
-    </contour>
-    <contour>
-      <point x="623" y="398" type="line"/>
-      <point x="86" y="398" type="line"/>
-      <point x="86" y="556" type="line"/>
-      <point x="623" y="556" type="line"/>
-    </contour>
-    <contour>
-      <point x="0" y="1559" type="move"/>
-    </contour>
   </outline>
 </glyph>

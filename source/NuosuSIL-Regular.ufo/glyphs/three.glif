@@ -75,10 +75,4 @@
       <point x="889" y="468" type="curve" smooth="yes" name="hr03"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <string>b''</string>
-    </dict>
-  </lib>
 </glyph>

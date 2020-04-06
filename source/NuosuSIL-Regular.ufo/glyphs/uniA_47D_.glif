@@ -46,10 +46,4 @@
       <point x="689" y="1070" type="curve" name="hr07"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <string>b''</string>
-    </dict>
-  </lib>
 </glyph>

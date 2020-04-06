@@ -64,10 +64,4 @@
       <point x="1052" y="527" type="line" name="hr07"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <string>b''</string>
-    </dict>
-  </lib>
 </glyph>
