@@ -1,0 +1,2 @@
+*.ttf            usr/share/fonts/truetype/ttf-sil-nuosusil
+debian/bug/*     usr/share/bug/ttf-sil-nuosusil

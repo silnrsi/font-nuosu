@@ -1,0 +1,21 @@
+Source: ttf-sil-nuosusil
+Section: x11
+Priority: optional
+Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
+Uploaders: Nicolas Spalinger <nicolas.spalinger@sil.org>, Daniel Glassey <wdg@debian.org>
+Build-Depends: debhelper (>= 4.1.0), defoma (>= 0.7.0) 
+Standards-Version: 3.7.2
+Homepage: http://scripts.sil.org/nuosusil
+Vcs-svn: svn://svn.debian.org/svn/pkg-fonts/packages/@TARNAME
+Vcs-Browser: http://svn.debian.org/wsvn/pkg-fonts/packages/ttf-sil-nuosusil
+
+
+Package: ttf-sil-nuosusil
+Architecture: all
+Depends: defoma
+Suggests: x-ttcidfont-conf | fontconfig, libgraphite3, pango-graphite
+Recommends: fontforge, fontforge-doc, inkscape, libfont-ttf-perl, fonttools, gucharmap, open-font-design-toolkit
+Description: Nuosu SIL is a font covering the Yi syllabary found in Unicode
+ Nuosu SIL is a font covering the Yi syllabary found in Unicode
+ .
+ Copyright(c) 2000-2008 SIL International (http://www.sil.org)
