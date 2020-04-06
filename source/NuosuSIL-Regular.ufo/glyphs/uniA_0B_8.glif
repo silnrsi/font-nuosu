@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA0B8" format="2">
+  <advance width="1600"/>
+  <unicode hex="A0B8"/>
+  <outline>
+    <contour>
+      <point x="1353" y="1793" type="line"/>
+      <point x="1353" y="1617"/>
+      <point x="1330" y="1106"/>
+      <point x="1046" y="1106" type="curve" smooth="yes"/>
+      <point x="899" y="1106"/>
+      <point x="827" y="1244"/>
+      <point x="792" y="1358" type="curve"/>
+      <point x="757" y="1243"/>
+      <point x="686" y="1106"/>
+      <point x="537" y="1106" type="curve" smooth="yes"/>
+      <point x="255" y="1106"/>
+      <point x="231" y="1617"/>
+      <point x="231" y="1793" type="curve"/>
+      <point x="338" y="1793" type="line"/>
+      <point x="338" y="1685"/>
+      <point x="355" y="1210"/>
+      <point x="537" y="1210" type="curve" smooth="yes"/>
+      <point x="722" y="1210"/>
+      <point x="739" y="1685"/>
+      <point x="739" y="1793" type="curve"/>
+      <point x="845" y="1793" type="line"/>
+      <point x="845" y="1685"/>
+      <point x="862" y="1210"/>
+      <point x="1046" y="1210" type="curve" smooth="yes"/>
+      <point x="1230" y="1210"/>
+      <point x="1246" y="1685"/>
+      <point x="1246" y="1793" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1224" y="394" type="line"/>
+      <point x="845" y="394" type="line"/>
+      <point x="845" y="0" type="line"/>
+      <point x="739" y="0" type="line"/>
+      <point x="739" y="394" type="line"/>
+      <point x="359" y="394" type="line"/>
+      <point x="359" y="498" type="line"/>
+      <point x="739" y="498" type="line"/>
+      <point x="739" y="710" type="line"/>
+      <point x="400" y="710" type="line"/>
+      <point x="400" y="813" type="line"/>
+      <point x="739" y="813" type="line"/>
+      <point x="739" y="1063" type="line"/>
+      <point x="845" y="1063" type="line"/>
+      <point x="845" y="813" type="line"/>
+      <point x="1184" y="813" type="line"/>
+      <point x="1184" y="710" type="line"/>
+      <point x="845" y="710" type="line"/>
+      <point x="845" y="498" type="line"/>
+      <point x="1224" y="498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

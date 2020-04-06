@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA13B" format="2">
+  <advance width="1600"/>
+  <unicode hex="A13B"/>
+  <outline>
+    <contour>
+      <point x="1238" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="346" y="104" type="line"/>
+      <point x="739" y="104" type="line"/>
+      <point x="739" y="460" type="line"/>
+      <point x="346" y="460" type="line"/>
+      <point x="346" y="564" type="line"/>
+      <point x="739" y="564" type="line"/>
+      <point x="739" y="1294" type="line"/>
+      <point x="385" y="1294" type="line"/>
+      <point x="385" y="957" type="line"/>
+      <point x="278" y="957" type="line"/>
+      <point x="278" y="1734" type="line"/>
+      <point x="385" y="1734" type="line"/>
+      <point x="385" y="1398" type="line"/>
+      <point x="739" y="1398" type="line"/>
+      <point x="739" y="1793" type="line"/>
+      <point x="845" y="1793" type="line"/>
+      <point x="845" y="1398" type="line"/>
+      <point x="1199" y="1398" type="line"/>
+      <point x="1199" y="1734" type="line"/>
+      <point x="1305" y="1734" type="line"/>
+      <point x="1305" y="957" type="line"/>
+      <point x="1199" y="957" type="line"/>
+      <point x="1199" y="1294" type="line"/>
+      <point x="845" y="1294" type="line"/>
+      <point x="845" y="564" type="line"/>
+      <point x="1238" y="564" type="line"/>
+      <point x="1238" y="460" type="line"/>
+      <point x="845" y="460" type="line"/>
+      <point x="845" y="104" type="line"/>
+      <point x="1238" y="104" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

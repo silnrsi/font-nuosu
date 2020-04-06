@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+  <advance width="426"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="256" y="-462" type="line"/>
+      <point x="169" y="-462" type="line"/>
+      <point x="169" y="1480" type="line"/>
+      <point x="256" y="1480" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA3A7" format="2">
+  <advance width="1600"/>
+  <unicode hex="A3A7"/>
+  <outline>
+    <contour>
+      <point x="871" y="657" type="line"/>
+      <point x="581" y="454" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="474" y="381" type="line"/>
+      <point x="398" y="329"/>
+      <point x="319" y="273"/>
+      <point x="244" y="221" type="curve"/>
+      <point x="183" y="304" type="line"/>
+      <point x="474" y="507" type="line"/>
+      <point x="474" y="1793" type="line"/>
+      <point x="581" y="1793" type="line"/>
+      <point x="581" y="1214" type="line"/>
+      <point x="1267" y="1214" type="line"/>
+      <point x="1267" y="1793" type="line"/>
+      <point x="1373" y="1793" type="line"/>
+      <point x="1373" y="0" type="line"/>
+      <point x="1267" y="0" type="line"/>
+      <point x="1267" y="1110" type="line"/>
+      <point x="581" y="1110" type="line"/>
+      <point x="581" y="581" type="line"/>
+      <point x="810" y="739" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

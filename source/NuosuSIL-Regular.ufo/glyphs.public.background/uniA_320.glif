@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA320" format="2">
+  <outline>
+    <contour>
+      <point x="1201" y="1293" type="line"/>
+      <point x="1105" y="1293" type="line"/>
+      <point x="1105" y="1732" type="line"/>
+      <point x="1201" y="1732" type="line"/>
+    </contour>
+    <contour>
+      <point x="1201" y="202" type="line"/>
+      <point x="1105" y="202" type="line"/>
+      <point x="1105" y="641" type="line"/>
+      <point x="1201" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="776" y="-28" type="line"/>
+      <point x="187" y="362" type="line"/>
+      <point x="242" y="439" type="line"/>
+      <point x="680" y="148" type="line"/>
+      <point x="680" y="1802" type="line"/>
+      <point x="776" y="1802" type="line"/>
+      <point x="776" y="1013" type="line"/>
+      <point x="1379" y="1013" type="line"/>
+      <point x="1379" y="920" type="line"/>
+      <point x="776" y="920" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni300E" format="2">
+  <outline>
+    <contour>
+      <point x="713" y="0" type="line"/>
+      <point x="713" y="1628" type="line"/>
+      <point x="1171" y="1628" type="line"/>
+      <point x="1171" y="1520" type="line"/>
+      <point x="820" y="1520" type="line"/>
+      <point x="820" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

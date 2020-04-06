@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA477" format="2">
+  <advance width="1600"/>
+  <unicode hex="A477"/>
+  <outline>
+    <contour>
+      <point x="1374" y="446" type="line"/>
+      <point x="845" y="446" type="line"/>
+      <point x="845" y="0" type="line"/>
+      <point x="739" y="0" type="line"/>
+      <point x="739" y="446" type="line"/>
+      <point x="210" y="446" type="line"/>
+      <point x="210" y="550" type="line"/>
+      <point x="739" y="550" type="line"/>
+      <point x="739" y="844" type="line"/>
+      <point x="210" y="844" type="line"/>
+      <point x="210" y="948" type="line"/>
+      <point x="739" y="948" type="line"/>
+      <point x="739" y="1733" type="line"/>
+      <point x="1199" y="1360" type="line"/>
+      <point x="1199" y="1793" type="line"/>
+      <point x="1305" y="1793" type="line"/>
+      <point x="1305" y="1138" type="line"/>
+      <point x="845" y="1511" type="line"/>
+      <point x="845" y="948" type="line"/>
+      <point x="1374" y="948" type="line"/>
+      <point x="1374" y="844" type="line"/>
+      <point x="845" y="844" type="line"/>
+      <point x="845" y="550" type="line"/>
+      <point x="1374" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

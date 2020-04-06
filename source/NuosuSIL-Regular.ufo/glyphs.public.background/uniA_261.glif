@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA261" format="2">
+  <outline>
+    <contour>
+      <point x="1103" y="2031" type="line"/>
+      <point x="1025" y="1976" type="line"/>
+      <point x="1003" y="2006"/>
+      <point x="901" y="2069"/>
+      <point x="798" y="2069" type="curve" smooth="yes"/>
+      <point x="701" y="2069"/>
+      <point x="601" y="2008"/>
+      <point x="569" y="1971" type="curve"/>
+      <point x="495" y="2031" type="line"/>
+      <point x="543" y="2087"/>
+      <point x="669" y="2163"/>
+      <point x="798" y="2163" type="curve" smooth="yes"/>
+      <point x="928" y="2163"/>
+      <point x="1062" y="2087"/>
+      <point x="1103" y="2031" type="curve"/>
+    </contour>
+    <contour>
+      <point x="846" y="196" type="line"/>
+      <point x="469" y="507" type="line"/>
+      <point x="469" y="-4" type="line"/>
+      <point x="373" y="-4" type="line"/>
+      <point x="373" y="708" type="line"/>
+      <point x="750" y="396" type="line"/>
+      <point x="750" y="1260" type="line"/>
+      <point x="310" y="1504" type="line"/>
+      <point x="310" y="911" type="line"/>
+      <point x="214" y="911" type="line"/>
+      <point x="214" y="1665" type="line"/>
+      <point x="750" y="1367" type="line"/>
+      <point x="750" y="1798" type="line"/>
+      <point x="846" y="1798" type="line"/>
+      <point x="846" y="1313" type="line"/>
+      <point x="1283" y="1071" type="line"/>
+      <point x="1283" y="1647" type="line"/>
+      <point x="1379" y="1647" type="line"/>
+      <point x="1379" y="910" type="line"/>
+      <point x="846" y="1206" type="line"/>
+    </contour>
+  </outline>
+</glyph>

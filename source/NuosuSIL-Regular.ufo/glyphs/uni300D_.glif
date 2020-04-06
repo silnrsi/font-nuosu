@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni300D" format="2">
+  <advance width="1600"/>
+  <unicode hex="300D"/>
+  <outline>
+    <contour>
+      <point x="1084" y="0" type="line"/>
+      <point x="1084" y="1685" type="line"/>
+      <point x="733" y="1685" type="line"/>
+      <point x="733" y="1793" type="line"/>
+      <point x="1191" y="1793" type="line"/>
+      <point x="1191" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.600,0.600,1</string>
+    </dict>
+  </lib>
+</glyph>

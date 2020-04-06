@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA400" format="2">
+  <outline>
+    <contour>
+      <point x="599" y="770" type="line"/>
+      <point x="335" y="93" type="line"/>
+      <point x="864" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="599" y="1032" type="line"/>
+      <point x="864" y="1709" type="line"/>
+      <point x="335" y="1709" type="line"/>
+    </contour>
+    <contour>
+      <point x="1003" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="549" y="900" type="line"/>
+      <point x="195" y="1802" type="line"/>
+      <point x="1003" y="1802" type="line"/>
+      <point x="669" y="947" type="line"/>
+      <point x="1131" y="947" type="line"/>
+      <point x="975" y="1488" type="line"/>
+      <point x="1066" y="1514" type="line"/>
+      <point x="1195" y="1069" type="line"/>
+      <point x="1324" y="1514" type="line"/>
+      <point x="1416" y="1488" type="line"/>
+      <point x="1244" y="898" type="line"/>
+      <point x="1414" y="310" type="line"/>
+      <point x="1323" y="285" type="line"/>
+      <point x="1195" y="725" type="line"/>
+      <point x="1068" y="285" type="line"/>
+      <point x="976" y="310" type="line"/>
+      <point x="1132" y="854" type="line"/>
+      <point x="669" y="854" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+  <advance width="709"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="632" y="-422" type="line"/>
+      <point x="172" y="-422" type="line"/>
+      <point x="172" y="1443" type="line"/>
+      <point x="632" y="1443" type="line"/>
+      <point x="632" y="1363" type="line"/>
+      <point x="327" y="1363" type="line" name="hr01"/>
+      <point x="327" y="-340" type="line"/>
+      <point x="632" y="-340" type="line" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA2F0" format="2">
+  <advance width="1600"/>
+  <unicode hex="A2F0"/>
+  <outline>
+    <contour>
+      <point x="385" y="1120" type="line"/>
+      <point x="279" y="1120" type="line"/>
+      <point x="279" y="1566" type="line"/>
+      <point x="385" y="1566" type="line"/>
+    </contour>
+    <contour>
+      <point x="804" y="0" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="698" y="1793" type="line"/>
+      <point x="804" y="1793" type="line"/>
+      <point x="804" y="948" type="line"/>
+      <point x="896" y="948" type="line"/>
+      <point x="1084" y="948"/>
+      <point x="1256" y="1101"/>
+      <point x="1256" y="1286" type="curve" smooth="yes"/>
+      <point x="1256" y="1407"/>
+      <point x="1182" y="1514"/>
+      <point x="1065" y="1578" type="curve"/>
+      <point x="1118" y="1668" type="line"/>
+      <point x="1264" y="1589"/>
+      <point x="1363" y="1449"/>
+      <point x="1363" y="1286" type="curve" smooth="yes"/>
+      <point x="1363" y="1114"/>
+      <point x="1257" y="969"/>
+      <point x="1110" y="896" type="curve"/>
+      <point x="1257" y="823"/>
+      <point x="1363" y="678"/>
+      <point x="1363" y="505" type="curve" smooth="yes"/>
+      <point x="1363" y="343"/>
+      <point x="1264" y="202"/>
+      <point x="1118" y="123" type="curve"/>
+      <point x="1065" y="214" type="line"/>
+      <point x="1182" y="277"/>
+      <point x="1256" y="385"/>
+      <point x="1256" y="505" type="curve" smooth="yes"/>
+      <point x="1256" y="691"/>
+      <point x="1083" y="844"/>
+      <point x="896" y="844" type="curve"/>
+      <point x="804" y="844" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="213" type="line"/>
+      <point x="279" y="213" type="line"/>
+      <point x="279" y="658" type="line"/>
+      <point x="385" y="658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

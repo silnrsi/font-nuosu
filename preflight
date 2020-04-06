@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "-----Normalizing UFO..."
+psfnormalize -p checkfix=fix source/NuosuSIL-Regular.ufo
+
+echo "-----Preflight completed!"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA4C0" format="2">
+  <advance width="1600"/>
+  <unicode hex="A4C0"/>
+  <outline>
+    <contour>
+      <point x="852" y="891" type="line"/>
+      <point x="1238" y="216" type="line"/>
+      <point x="1238" y="1576" type="line"/>
+    </contour>
+    <contour>
+      <point x="1345" y="0" type="line"/>
+      <point x="1241" y="0" type="line"/>
+      <point x="790" y="783" type="line"/>
+      <point x="345" y="-5" type="line"/>
+      <point x="252" y="46" type="line"/>
+      <point x="729" y="890" type="line"/>
+      <point x="567" y="1173"/>
+      <point x="399" y="1464"/>
+      <point x="237" y="1748" type="curve"/>
+      <point x="330" y="1798" type="line"/>
+      <point x="789" y="997" type="line"/>
+      <point x="1241" y="1793" type="line"/>
+      <point x="1345" y="1793" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

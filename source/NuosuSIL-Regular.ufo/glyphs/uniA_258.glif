@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA258" format="2">
+  <advance width="1600"/>
+  <unicode hex="A258"/>
+  <outline>
+    <contour>
+      <point x="739" y="873" type="line"/>
+      <point x="577" y="982"/>
+      <point x="409" y="1094"/>
+      <point x="248" y="1204" type="curve"/>
+      <point x="309" y="1289" type="line"/>
+      <point x="739" y="999" type="line"/>
+      <point x="739" y="1818" type="line"/>
+      <point x="1331" y="1489" type="line"/>
+      <point x="1279" y="1400" type="line"/>
+      <point x="845" y="1641" type="line"/>
+      <point x="845" y="-25" type="line"/>
+      <point x="253" y="307" type="line"/>
+      <point x="305" y="396" type="line"/>
+      <point x="739" y="155" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

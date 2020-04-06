@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA0D0" format="2">
+  <advance width="1600"/>
+  <unicode hex="A0D0"/>
+  <outline>
+    <contour>
+      <point x="317" y="872" type="line"/>
+      <point x="210" y="872" type="line"/>
+      <point x="210" y="1736" type="line"/>
+      <point x="317" y="1736" type="line"/>
+      <point x="317" y="1355" type="line"/>
+      <point x="872" y="1355" type="line"/>
+      <point x="872" y="1809" type="line"/>
+      <point x="1388" y="1579" type="line"/>
+      <point x="1343" y="1486" type="line"/>
+      <point x="979" y="1647" type="line"/>
+      <point x="979" y="279" type="line"/>
+      <point x="385" y="543" type="line" name="hr01"/>
+      <point x="385" y="0" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="278" y="701" type="line"/>
+      <point x="872" y="437" type="line"/>
+      <point x="872" y="1251" type="line"/>
+      <point x="317" y="1251" type="line" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA13C" format="2">
+  <outline>
+    <contour>
+      <point x="1358" y="60" type="line"/>
+      <point x="1262" y="60" type="line"/>
+      <point x="1262" y="354"/>
+      <point x="1105" y="653"/>
+      <point x="844" y="686" type="curve"/>
+      <point x="844" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="749" y="686" type="line"/>
+      <point x="492" y="652"/>
+      <point x="331" y="352"/>
+      <point x="331" y="59" type="curve"/>
+      <point x="235" y="59" type="line"/>
+      <point x="235" y="368"/>
+      <point x="410" y="747"/>
+      <point x="749" y="779" type="curve"/>
+      <point x="749" y="1307" type="line"/>
+      <point x="379" y="1307" type="line"/>
+      <point x="379" y="1101" type="line"/>
+      <point x="283" y="1101" type="line"/>
+      <point x="283" y="1608" type="line"/>
+      <point x="379" y="1608" type="line"/>
+      <point x="379" y="1400" type="line"/>
+      <point x="749" y="1400" type="line"/>
+      <point x="749" y="1802" type="line"/>
+      <point x="844" y="1802" type="line"/>
+      <point x="844" y="1400" type="line"/>
+      <point x="1214" y="1400" type="line"/>
+      <point x="1214" y="1608" type="line"/>
+      <point x="1310" y="1608" type="line"/>
+      <point x="1310" y="1101" type="line"/>
+      <point x="1214" y="1101" type="line"/>
+      <point x="1214" y="1307" type="line"/>
+      <point x="844" y="1307" type="line"/>
+      <point x="844" y="779" type="line"/>
+      <point x="1187" y="747"/>
+      <point x="1358" y="370"/>
+      <point x="1358" y="60" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

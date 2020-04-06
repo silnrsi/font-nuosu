@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF08" format="2">
+  <outline>
+    <contour>
+      <point x="1481" y="1574" type="line"/>
+      <point x="1481" y="1622" type="line"/>
+      <point x="1209" y="1471"/>
+      <point x="938" y="1159"/>
+      <point x="938" y="825" type="curve" smooth="yes"/>
+      <point x="938" y="499"/>
+      <point x="1208" y="162"/>
+      <point x="1481" y="25" type="curve"/>
+      <point x="1481" y="68" type="line"/>
+      <point x="1295" y="186"/>
+      <point x="1048" y="463"/>
+      <point x="1048" y="798" type="curve" smooth="yes"/>
+      <point x="1048" y="1160"/>
+      <point x="1265" y="1408"/>
+      <point x="1481" y="1574" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA49E" format="2">
+  <outline>
+    <contour>
+      <point x="1140" y="0" type="line"/>
+      <point x="1044" y="0" type="line"/>
+      <point x="1044" y="446" type="line"/>
+      <point x="453" y="190" type="line"/>
+      <point x="453" y="1617" type="line"/>
+      <point x="1044" y="1370" type="line"/>
+      <point x="1044" y="1802" type="line"/>
+      <point x="1140" y="1802" type="line"/>
+      <point x="1140" y="1229" type="line"/>
+      <point x="549" y="1476" type="line"/>
+      <point x="549" y="334" type="line"/>
+      <point x="1140" y="589" type="line"/>
+    </contour>
+  </outline>
+</glyph>

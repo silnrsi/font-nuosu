@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA470" format="2">
+  <outline>
+    <contour>
+      <point x="1379" y="-21" type="line"/>
+      <point x="310" y="549" type="line"/>
+      <point x="310" y="-19" type="line"/>
+      <point x="214" y="-19" type="line"/>
+      <point x="214" y="708" type="line"/>
+      <point x="749" y="422" type="line"/>
+      <point x="749" y="807" type="line"/>
+      <point x="425" y="846"/>
+      <point x="246" y="1263"/>
+      <point x="246" y="1696" type="curve"/>
+      <point x="342" y="1696" type="line"/>
+      <point x="342" y="1267"/>
+      <point x="516" y="942"/>
+      <point x="749" y="902" type="curve"/>
+      <point x="749" y="1802" type="line"/>
+      <point x="844" y="1802" type="line"/>
+      <point x="844" y="902" type="line"/>
+      <point x="1079" y="942"/>
+      <point x="1251" y="1267"/>
+      <point x="1251" y="1696" type="curve"/>
+      <point x="1347" y="1696" type="line"/>
+      <point x="1347" y="1263"/>
+      <point x="1169" y="846"/>
+      <point x="844" y="807" type="curve"/>
+      <point x="844" y="371" type="line"/>
+      <point x="1283" y="137" type="line"/>
+      <point x="1283" y="688" type="line"/>
+      <point x="1379" y="688" type="line"/>
+    </contour>
+  </outline>
+</glyph>

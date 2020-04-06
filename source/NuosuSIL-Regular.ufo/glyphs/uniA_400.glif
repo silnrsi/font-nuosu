@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA400" format="2">
+  <advance width="1600"/>
+  <unicode hex="A400"/>
+  <outline>
+    <contour>
+      <point x="597" y="750" type="line"/>
+      <point x="345" y="104" type="line"/>
+      <point x="850" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="597" y="1043" type="line"/>
+      <point x="850" y="1689" type="line"/>
+      <point x="345" y="1689" type="line"/>
+    </contour>
+    <contour>
+      <point x="1005" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="540" y="896" type="line"/>
+      <point x="189" y="1793" type="line"/>
+      <point x="1005" y="1793" type="line"/>
+      <point x="675" y="948" type="line"/>
+      <point x="1115" y="948" type="line"/>
+      <point x="960" y="1481" type="line"/>
+      <point x="1062" y="1510" type="line"/>
+      <point x="1186" y="1084" type="line"/>
+      <point x="1309" y="1510" type="line"/>
+      <point x="1412" y="1481" type="line"/>
+      <point x="1241" y="894" type="line"/>
+      <point x="1410" y="308" type="line"/>
+      <point x="1308" y="280" type="line"/>
+      <point x="1186" y="699" type="line"/>
+      <point x="1064" y="280" type="line"/>
+      <point x="961" y="308" type="line"/>
+      <point x="1116" y="844" type="line"/>
+      <point x="675" y="844" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

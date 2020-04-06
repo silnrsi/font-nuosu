@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA242" format="2">
+  <outline>
+    <contour>
+      <point x="1395" y="500" type="line"/>
+      <point x="1003" y="362" type="line"/>
+      <point x="1091" y="258"/>
+      <point x="1202" y="174"/>
+      <point x="1329" y="118" type="curve"/>
+      <point x="1291" y="35" type="line"/>
+      <point x="1139" y="100"/>
+      <point x="1007" y="202"/>
+      <point x="909" y="329" type="curve"/>
+      <point x="429" y="160" type="line"/>
+      <point x="396" y="246" type="line"/>
+      <point x="854" y="408" type="line"/>
+      <point x="772" y="539"/>
+      <point x="721" y="692"/>
+      <point x="713" y="854" type="curve"/>
+      <point x="283" y="854" type="line"/>
+      <point x="283" y="947" type="line"/>
+      <point x="713" y="947" type="line"/>
+      <point x="721" y="1109"/>
+      <point x="770" y="1262"/>
+      <point x="853" y="1393" type="curve"/>
+      <point x="396" y="1553" type="line"/>
+      <point x="429" y="1641" type="line"/>
+      <point x="909" y="1472" type="line"/>
+      <point x="1007" y="1599"/>
+      <point x="1139" y="1701"/>
+      <point x="1291" y="1766" type="curve"/>
+      <point x="1329" y="1682" type="line"/>
+      <point x="1202" y="1627"/>
+      <point x="1091" y="1543"/>
+      <point x="1003" y="1439" type="curve"/>
+      <point x="1395" y="1301" type="line"/>
+      <point x="1362" y="1213" type="line"/>
+      <point x="946" y="1361" type="line"/>
+      <point x="866" y="1240"/>
+      <point x="817" y="1099"/>
+      <point x="809" y="947" type="curve"/>
+      <point x="1310" y="947" type="line"/>
+      <point x="1310" y="854" type="line"/>
+      <point x="809" y="854" type="line"/>
+      <point x="817" y="702"/>
+      <point x="866" y="561"/>
+      <point x="946" y="440" type="curve"/>
+      <point x="1362" y="588" type="line"/>
+    </contour>
+  </outline>
+</glyph>

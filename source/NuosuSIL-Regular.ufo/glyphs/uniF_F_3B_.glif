@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF3B" format="2">
+  <advance width="1603"/>
+  <unicode hex="FF3B"/>
+  <outline>
+    <contour>
+      <point x="1544" y="-502" type="line"/>
+      <point x="997" y="-502" type="line"/>
+      <point x="997" y="1716" type="line"/>
+      <point x="1544" y="1716" type="line"/>
+      <point x="1544" y="1621" type="line"/>
+      <point x="1183" y="1621" type="line" name="hr01"/>
+      <point x="1183" y="-405" type="line"/>
+      <point x="1544" y="-405" type="line" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+      <key>public.markColor</key>
+      <string>1,0.600,0.600,1</string>
+    </dict>
+  </lib>
+</glyph>

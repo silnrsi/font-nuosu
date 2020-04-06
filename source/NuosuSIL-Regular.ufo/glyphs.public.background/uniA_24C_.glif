@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA24C" format="2">
+  <outline>
+    <contour>
+      <point x="1310" y="513" type="line"/>
+      <point x="932" y="815" type="line"/>
+      <point x="958" y="511"/>
+      <point x="1123" y="249"/>
+      <point x="1353" y="101" type="curve"/>
+      <point x="1301" y="23" type="line"/>
+      <point x="1021" y="202"/>
+      <point x="833" y="525"/>
+      <point x="832" y="895" type="curve"/>
+      <point x="550" y="1120" type="line"/>
+      <point x="550" y="-53" type="line"/>
+      <point x="180" y="314" type="line"/>
+      <point x="249" y="378" type="line"/>
+      <point x="454" y="176" type="line"/>
+      <point x="454" y="1317" type="line"/>
+      <point x="838" y="1011" type="line"/>
+      <point x="870" y="1335"/>
+      <point x="1049" y="1616"/>
+      <point x="1301" y="1778" type="curve"/>
+      <point x="1353" y="1700" type="line"/>
+      <point x="1110" y="1544"/>
+      <point x="940" y="1263"/>
+      <point x="928" y="938" type="curve"/>
+      <point x="1214" y="710" type="line"/>
+      <point x="1214" y="1226" type="line"/>
+      <point x="1310" y="1226" type="line"/>
+    </contour>
+  </outline>
+</glyph>

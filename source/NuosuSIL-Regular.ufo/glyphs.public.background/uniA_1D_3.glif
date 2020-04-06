@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA1D3" format="2">
+  <outline>
+    <contour>
+      <point x="844" y="1440" type="line"/>
+      <point x="749" y="1440" type="line"/>
+      <point x="749" y="1802" type="line"/>
+      <point x="844" y="1802" type="line"/>
+    </contour>
+    <contour>
+      <point x="1305" y="1781" type="line"/>
+      <point x="850" y="900" type="line"/>
+      <point x="1305" y="21" type="line"/>
+      <point x="1220" y="-21" type="line"/>
+      <point x="797" y="797" type="line"/>
+      <point x="373" y="-21" type="line"/>
+      <point x="288" y="21" type="line"/>
+      <point x="743" y="900" type="line"/>
+      <point x="288" y="1781" type="line"/>
+      <point x="373" y="1823" type="line"/>
+      <point x="797" y="1005" type="line"/>
+      <point x="1220" y="1823" type="line"/>
+    </contour>
+    <contour>
+      <point x="844" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="749" y="362" type="line"/>
+      <point x="844" y="362" type="line"/>
+    </contour>
+  </outline>
+</glyph>

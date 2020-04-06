@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA13F" format="2">
+  <outline>
+    <contour>
+      <point x="879" y="1166" type="line"/>
+      <point x="1214" y="942" type="line"/>
+      <point x="1214" y="1391" type="line"/>
+    </contour>
+    <contour>
+      <point x="1242" y="0" type="line"/>
+      <point x="844" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="351" y="93" type="line"/>
+      <point x="749" y="93" type="line"/>
+      <point x="749" y="519" type="line"/>
+      <point x="351" y="519" type="line"/>
+      <point x="351" y="612" type="line"/>
+      <point x="749" y="612" type="line"/>
+      <point x="749" y="1079" type="line"/>
+      <point x="338" y="803" type="line"/>
+      <point x="283" y="880" type="line"/>
+      <point x="710" y="1166" type="line"/>
+      <point x="283" y="1454" type="line"/>
+      <point x="338" y="1531" type="line"/>
+      <point x="749" y="1254" type="line"/>
+      <point x="749" y="1709" type="line"/>
+      <point x="351" y="1709" type="line"/>
+      <point x="351" y="1802" type="line"/>
+      <point x="749" y="1802" type="line"/>
+      <point x="844" y="1802" type="line"/>
+      <point x="1242" y="1802" type="line"/>
+      <point x="1242" y="1709" type="line"/>
+      <point x="844" y="1709" type="line"/>
+      <point x="844" y="1257" type="line"/>
+      <point x="1310" y="1569" type="line"/>
+      <point x="1310" y="763" type="line"/>
+      <point x="844" y="1077" type="line"/>
+      <point x="844" y="612" type="line"/>
+      <point x="1242" y="612" type="line"/>
+      <point x="1242" y="519" type="line"/>
+      <point x="844" y="519" type="line"/>
+      <point x="844" y="93" type="line"/>
+      <point x="1242" y="93" type="line"/>
+    </contour>
+  </outline>
+</glyph>

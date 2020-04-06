@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA22D" format="2">
+  <outline>
+    <contour>
+      <point x="873" y="1387" type="line"/>
+      <point x="1214" y="1133" type="line"/>
+      <point x="1214" y="1641" type="line"/>
+    </contour>
+    <contour>
+      <point x="1310" y="944" type="line"/>
+      <point x="795" y="1329" type="line"/>
+      <point x="339" y="990" type="line"/>
+      <point x="281" y="1064" type="line"/>
+      <point x="716" y="1387" type="line"/>
+      <point x="281" y="1712" type="line"/>
+      <point x="339" y="1786" type="line"/>
+      <point x="795" y="1446" type="line"/>
+      <point x="1310" y="1830" type="line"/>
+    </contour>
+    <contour>
+      <point x="844" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="749" y="451" type="line"/>
+      <point x="283" y="451" type="line"/>
+      <point x="283" y="544" type="line"/>
+      <point x="749" y="544" type="line"/>
+      <point x="749" y="992" type="line"/>
+      <point x="844" y="992" type="line"/>
+      <point x="844" y="544" type="line"/>
+      <point x="1310" y="544" type="line"/>
+      <point x="1310" y="451" type="line"/>
+      <point x="844" y="451" type="line"/>
+    </contour>
+  </outline>
+</glyph>

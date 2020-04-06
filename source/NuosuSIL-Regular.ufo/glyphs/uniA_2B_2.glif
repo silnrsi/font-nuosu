@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA2B2" format="2">
+  <advance width="1600"/>
+  <unicode hex="A2B2"/>
+  <outline>
+    <contour>
+      <point x="954" y="1029" type="line"/>
+      <point x="882" y="953" type="line"/>
+      <point x="795" y="1032" type="line"/>
+      <point x="795" y="343" type="line"/>
+      <point x="529" y="586" type="line"/>
+      <point x="603" y="660" type="line"/>
+      <point x="689" y="581" type="line"/>
+      <point x="689" y="1266" type="line"/>
+    </contour>
+    <contour>
+      <point x="1005" y="1410" type="line"/>
+      <point x="829" y="1490"/>
+      <point x="657" y="1569"/>
+      <point x="481" y="1648" type="curve"/>
+      <point x="481" y="-59" type="line"/>
+      <point x="175" y="237" type="line"/>
+      <point x="251" y="311" type="line"/>
+      <point x="374" y="190" type="line"/>
+      <point x="374" y="1809" type="line"/>
+      <point x="1005" y="1524" type="line"/>
+      <point x="1005" y="1624"/>
+      <point x="1007" y="1737"/>
+      <point x="1007" y="1835" type="curve"/>
+      <point x="1402" y="1536" type="line"/>
+      <point x="1336" y="1452" type="line"/>
+      <point x="1112" y="1622" type="line"/>
+      <point x="1112" y="1082"/>
+      <point x="1114" y="540"/>
+      <point x="1114" y="0" type="curve"/>
+      <point x="1007" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>

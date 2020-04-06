@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni3012" format="2">
+  <advance width="1599"/>
+  <unicode hex="3012"/>
+  <outline>
+    <contour>
+      <point x="853" y="0" type="line"/>
+      <point x="747" y="0" type="line"/>
+      <point x="747" y="1269" type="line"/>
+      <point x="186" y="1269" type="line"/>
+      <point x="186" y="1373" type="line"/>
+      <point x="1413" y="1373" type="line"/>
+      <point x="1413" y="1269" type="line"/>
+      <point x="853" y="1269" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="1689" type="line"/>
+      <point x="186" y="1793" type="line"/>
+      <point x="1413" y="1793" type="line"/>
+      <point x="1413" y="1689" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+      <key>public.markColor</key>
+      <string>1,0.600,0.600,1</string>
+    </dict>
+  </lib>
+</glyph>
