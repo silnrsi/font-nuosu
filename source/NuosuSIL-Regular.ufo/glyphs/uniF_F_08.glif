@@ -21,10 +21,4 @@
       <point x="1481" y="1504" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.600,0.600,1</string>
-    </dict>
-  </lib>
 </glyph>

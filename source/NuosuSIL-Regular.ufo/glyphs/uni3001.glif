@@ -31,10 +31,4 @@
       <point x="783" y="100" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.600,0.600,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -41,10 +41,4 @@
     </contour>
     <component base="uniFF0C" xScale="0.1" yScale="0.1" xOffset="1440" yOffset="1936"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.600,0.600,1</string>
-    </dict>
-  </lib>
 </glyph>
