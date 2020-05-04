@@ -79,7 +79,7 @@
   <array>
     <string>.notdef</string>
     <string>.null</string>
-    <string>CR</string>
+    <string>nonmarkingreturn</string>
     <string>space</string>
     <string>numbersign</string>
     <string>dollar</string>
