@@ -38,7 +38,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1312</string>
+  <string>1330</string>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
@@ -1678,5 +1678,14 @@
     <string>LtnCapEsh</string>
     <string>uniFF1F_reject</string>
   </array>
+  <key>public.postscriptNames</key>
+  <dict>
+    <key>Delta</key>
+    <string>uni0394</string>
+    <key>Omega</key>
+    <string>uni03A9</string>
+    <key>mu</key>
+    <string>uni03BC</string>
+  </dict>
 </dict>
 </plist>
