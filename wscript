@@ -1,10 +1,14 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
+# this is a smith configuration file
 
 APPNAME = "NuosuSIL"
 DESC_SHORT = "Unicode font for the Yi script"
 
 getufoinfo('source/NuosuSIL-Regular.ufo')
+# BUILDLABEL = 'beta1'
+
+# Set up the FTML tests
+ftmlTest('tools/ftml-smith.xsl')
 
 fontfamily=APPNAME
 
