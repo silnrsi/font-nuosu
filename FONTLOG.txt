@@ -39,9 +39,10 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-9 April 2020 Version 2.200
+30 Sep 2020 Version 2.200
 - Build changed to use UFO+designspace workflow
-- Corrected shape of U+300D
+- Corrected shape of U+300D and U+300F
+- Add more Latin characters from Doulos SIL at 104%
 
 9 July 2009 Version 2.1.1
 

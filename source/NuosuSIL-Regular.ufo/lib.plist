@@ -343,6 +343,8 @@
     <string>Delta</string>
     <string>product</string>
     <string>summation</string>
+    <string>minus</string>
+    <string>divisionslash</string>
     <string>uni2219</string>
     <string>radical</string>
     <string>infinity</string>
@@ -351,6 +353,7 @@
     <string>notequal</string>
     <string>lessequal</string>
     <string>greaterequal</string>
+    <string>uni2423</string>
     <string>uni2460</string>
     <string>uni2461</string>
     <string>uni2462</string>
@@ -1624,6 +1627,8 @@
     <string>uniA4C4</string>
     <string>uniA4C5</string>
     <string>uniA4C6</string>
+    <string>uniF130</string>
+    <string>uniF131</string>
     <string>uniFB01</string>
     <string>uniFB02</string>
     <string>uniFE00</string>
@@ -1643,8 +1648,8 @@
     <string>uniFE0E</string>
     <string>uniFE0F</string>
     <string>uniFEFF</string>
-    <string>uniFF01_reject</string>
     <string>uniFF01</string>
+    <string>uniFF01_reject</string>
     <string>uniFF02</string>
     <string>uniFF08</string>
     <string>uniFF09</string>
