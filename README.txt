@@ -1,22 +1,22 @@
 README
 Nuosu SIL
-========================
+=========
 
 Thank you for your interest in the Nuosu SIL font.
 We hope you find it useful!
 
 Nuosu SIL is released under the SIL Open Font License.
 Nuosu SIL is a trademark of SIL International.
-	
+
 See the OFL and OFL-FAQ for details of the SIL Open Font License.
-See the FONTLOG for information on this and previous releases.
+For more details about this project, including changelog, making contributions, and acknowledgements see FONTLOG.
 See the website (https://software.sil.org/nuosu/) for further information.
 
 TIPS
 ====
 
-As this font is distributed at no cost, we are unable to provide a 
-commercial level of personal technical support. The font has, however, 
+As this font is distributed at no cost, we are unable to provide a
+commercial level of personal technical support. The font has, however,
 been through some testing on various platforms to be sure it works in most
 situations.
 
@@ -27,7 +27,7 @@ future versions.
 Many problems can be solved, or at least explained, through an understanding
 of the encoding and use of the fonts. Here are some basic hints:
 
-Encoding: 
+Encoding:
 The fonts are encoded according to Unicode, so your application must support
 Unicode text in order to access letters other than the standard alphabet.
 Most applications provide basic Unicode support. You will, however,
