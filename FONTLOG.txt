@@ -38,7 +38,7 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-30 Sep 2020 Version 2.200
+21 Oct 2020 Version 2.200
 - Build changed to use UFO+designspace workflow
 - Corrected shape of U+300D and U+300F
 - Add more Latin characters from Doulos SIL at 104%
@@ -79,7 +79,7 @@ Acknowledgements
 modifications be sure to add your name (N), email (E), web-address (W)
 and description (D). This list is sorted by last name in alphabetical order.)
 
-N: Peter Constable, Alex Kotlar, Peter Martin
+N: Peter Constable, Alex Kotlar, Peter Martin, Bobby de Vos
 E: fonts@sil.org
 W: https://software.sil.org/nuosu/
 D: SIL font engineers and designers
