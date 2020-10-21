@@ -344,7 +344,7 @@
     <string>product</string>
     <string>summation</string>
     <string>minus</string>
-    <string>divisionslash</string>
+    <string>uni2215</string>
     <string>uni2219</string>
     <string>radical</string>
     <string>infinity</string>
@@ -1648,8 +1648,8 @@
     <string>uniFE0E</string>
     <string>uniFE0F</string>
     <string>uniFEFF</string>
-    <string>uniFF01</string>
     <string>uniFF01_reject</string>
+    <string>uniFF01</string>
     <string>uniFF02</string>
     <string>uniFF08</string>
     <string>uniFF09</string>
