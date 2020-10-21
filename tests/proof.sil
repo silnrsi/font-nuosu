@@ -1,0 +1,48 @@
+\begin[class=fontproof]{document}
+\bidi-off
+\setTestFont[]
+
+\proof{Yi ꆈꌠꁱꂷ}
+
+\subsection{Waterfall}
+
+\proof[size="10,11,12,16",heading=Body text]{ꆈꌠꁱꂷ}
+\proof[size="18,24,30,36",heading=Heading text]{ꆈꌠꁱꂷ}
+
+\section{Generated}
+
+\subsection{Latin text}
+\pangrams
+\lorem[words=100]
+
+\subsection{Glyphs}
+\repertoire
+
+\subsection{Yi Syllables (1)}
+\unicharchart[type=range,start=A000,end=A0EF]
+
+\subsection{Yi Syllables (2)}
+\unicharchart[type=range,start=A0F0,end=A1DF]
+
+\subsection{Yi Syllables (3)}
+\unicharchart[type=range,start=A1E0,end=A2CF]
+
+\subsection{Yi Syllables (4)}
+\unicharchart[type=range,start=A2D0,end=A3AF]
+
+\subsection{Yi Syllables (5)}
+\unicharchart[type=range,start=A3B0,end=A48F]
+
+\subsection{CJK Punctuation}
+\unicharchart[type=range,start=3000,end=301F]
+
+\subsection{ASCII}
+\unicharchart[type=range,start=0020,end=007F]
+
+\subsection{Punctuation}
+\unicharchart[type=range,start=2010,end=201F]
+
+\subsection{Latin-1}
+\unicharchart[type=range,start=00A0,end=00FF]
+
+\end{document}
