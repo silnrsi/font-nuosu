@@ -10,7 +10,7 @@ any derivative works.
 Basic Font Information
 ----------------------
 
-Nuoso SIL (originally SIL Yi) was developed in 2000 as a single Unicode
+Nuosu SIL (originally SIL Yi) was developed in 2000 as a single Unicode
 font for the standardized Yi script used by a large ethnic group in
 southwestern China.
 

@@ -6,4 +6,7 @@ psfnormalize -p checkfix=fix source/NuosuSIL-Regular.ufo
 echo "-----Normalizing UFO..."
 psfsetglyphorder -i source/glyph_data.csv source/NuosuSIL-Regular.ufo
 
+echo "-----Create WOFF metadata file..."
+psfmakewoffmetadata -n "NuosuSIL" -i org.sil.fonts -o source/NuosuSIL-WOFF-metadata.xml source/*-Regular.ufo
+
 echo "-----Preflight completed!"
