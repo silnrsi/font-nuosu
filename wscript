@@ -14,6 +14,7 @@ fontfamily=APPNAME
 
 designspace('source/' + fontfamily + '.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
+            version = VERSION,
             woff = woff('woff/${DS:FILENAME_BASE}',
                 metadata = '../source/${DS:FAMILYNAME_NOSPC}-WOFF-metadata.xml'),
             pdf = fret(params="-r -oi")
