@@ -6,19 +6,19 @@
     <contour>
       <point x="845" y="-24" type="line"/>
       <point x="845" y="890" type="line"/>
-      <point x="1004" y="890" type="line" name="hr06"/>
+      <point x="1004" y="890" type="line"/>
       <point x="1004" y="615" type="line"/>
-      <point x="1111" y="615" type="line" name="hr05"/>
+      <point x="1111" y="615" type="line"/>
       <point x="1111" y="890" type="line"/>
-      <point x="1267" y="890" type="line" name="hr04"/>
+      <point x="1267" y="890" type="line"/>
       <point x="1267" y="615" type="line"/>
       <point x="1374" y="615" type="line"/>
       <point x="1374" y="1322" type="line"/>
-      <point x="1267" y="1322" type="line" name="hr03"/>
+      <point x="1267" y="1322" type="line"/>
       <point x="1267" y="994" type="line"/>
-      <point x="1111" y="994" type="line" name="hr02"/>
+      <point x="1111" y="994" type="line"/>
       <point x="1111" y="1322" type="line"/>
-      <point x="1004" y="1322" type="line" name="hr01"/>
+      <point x="1004" y="1322" type="line"/>
       <point x="1004" y="994" type="line"/>
       <point x="845" y="994" type="line"/>
       <point x="845" y="1639" type="line"/>

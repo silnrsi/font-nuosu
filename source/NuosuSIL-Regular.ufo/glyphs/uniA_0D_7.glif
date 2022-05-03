@@ -6,9 +6,9 @@
     <contour>
       <point x="843" y="0" type="line"/>
       <point x="950" y="0" type="line"/>
-      <point x="950" y="844" type="line" name="hr02"/>
+      <point x="950" y="844" type="line"/>
       <point x="1374" y="844" type="line"/>
-      <point x="1374" y="948" type="line" name="hr01"/>
+      <point x="1374" y="948" type="line"/>
       <point x="950" y="948" type="line"/>
       <point x="950" y="1793" type="line"/>
       <point x="843" y="1793" type="line"/>

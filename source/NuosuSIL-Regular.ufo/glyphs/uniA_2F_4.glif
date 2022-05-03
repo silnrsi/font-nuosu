@@ -17,15 +17,15 @@
       <point x="739" y="1210" type="line"/>
       <point x="845" y="1210" type="line"/>
       <point x="845" y="1455" type="line"/>
-      <point x="1221" y="1455" type="line" name="hr04"/>
+      <point x="1221" y="1455" type="line"/>
       <point x="1221" y="1559" type="line"/>
-      <point x="845" y="1559" type="line" name="hr03"/>
+      <point x="845" y="1559" type="line"/>
       <point x="845" y="1793" type="line"/>
-      <point x="739" y="1793" type="line" name="hr02"/>
+      <point x="739" y="1793" type="line"/>
       <point x="739" y="1559" type="line"/>
       <point x="374" y="1559" type="line"/>
       <point x="374" y="1455" type="line"/>
-      <point x="739" y="1455" type="line" name="hr01"/>
+      <point x="739" y="1455" type="line"/>
     </contour>
   </outline>
 </glyph>

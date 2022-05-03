@@ -6,20 +6,20 @@
     <contour>
       <point x="632" y="0" type="line"/>
       <point x="804" y="0" type="line"/>
-      <point x="804" y="373" type="line" name="hr01"/>
+      <point x="804" y="373" type="line"/>
       <point x="990" y="373" type="line"/>
-      <point x="990" y="521" type="line" name="hr04"/>
+      <point x="990" y="521" type="line"/>
       <point x="804" y="521" type="line"/>
-      <point x="804" y="1441" type="line" name="hr03"/>
+      <point x="804" y="1441" type="line"/>
       <point x="689" y="1441" type="line"/>
       <point x="33" y="505" type="line"/>
-      <point x="33" y="373" type="line" name="hr02"/>
+      <point x="33" y="373" type="line"/>
       <point x="632" y="373" type="line"/>
     </contour>
     <contour>
       <point x="136" y="521" type="line"/>
       <point x="632" y="1221" type="line"/>
-      <point x="632" y="521" type="line" name="hr05"/>
+      <point x="632" y="521" type="line"/>
     </contour>
   </outline>
 </glyph>

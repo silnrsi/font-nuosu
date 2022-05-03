@@ -54,7 +54,7 @@
     </contour>
     <contour>
       <point x="824" y="421" type="line"/>
-      <point x="931" y="421" type="line" name="hr01"/>
+      <point x="931" y="421" type="line"/>
       <point x="931" y="780" type="line"/>
       <point x="824" y="780" type="line"/>
     </contour>

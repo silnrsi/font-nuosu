@@ -6,7 +6,7 @@
     <contour>
       <point x="659" y="0" type="line"/>
       <point x="766" y="0" type="line"/>
-      <point x="766" y="450" type="line" name="hr01"/>
+      <point x="766" y="450" type="line"/>
       <point x="1062" y="275" type="line" smooth="yes"/>
       <point x="1099" y="252"/>
       <point x="1133" y="235"/>
@@ -33,7 +33,7 @@
       <point x="576" y="1270" type="line"/>
       <point x="576" y="872" type="line"/>
       <point x="683" y="872" type="line"/>
-      <point x="683" y="1406" type="line" name="hr02"/>
+      <point x="683" y="1406" type="line"/>
       <point x="756" y="1578"/>
       <point x="867" y="1676"/>
       <point x="1010" y="1676" type="curve" smooth="yes"/>

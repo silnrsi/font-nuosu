@@ -6,10 +6,10 @@
     <contour>
       <point x="739" y="0" type="line"/>
       <point x="845" y="0" type="line"/>
-      <point x="845" y="976" type="line" name="hr02"/>
+      <point x="845" y="976" type="line"/>
       <point x="1186" y="1008"/>
       <point x="1379" y="1390"/>
-      <point x="1379" y="1793" type="curve" name="hr01"/>
+      <point x="1379" y="1793" type="curve"/>
       <point x="1272" y="1793" type="line"/>
       <point x="1272" y="1387"/>
       <point x="1072" y="1075"/>

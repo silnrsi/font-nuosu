@@ -18,9 +18,9 @@
       <point x="252" y="1453" type="line"/>
       <point x="416" y="1347"/>
       <point x="532" y="1163"/>
-      <point x="547" y="948" type="curve" name="hr02"/>
+      <point x="547" y="948" type="curve"/>
       <point x="210" y="948" type="line"/>
-      <point x="210" y="844" type="line" name="hr01"/>
+      <point x="210" y="844" type="line"/>
       <point x="547" y="844" type="line"/>
       <point x="532" y="629"/>
       <point x="416" y="445"/>

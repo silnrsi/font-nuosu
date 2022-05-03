@@ -9,8 +9,8 @@
       <point x="845" y="502" type="line"/>
       <point x="1083" y="478"/>
       <point x="1268" y="287"/>
-      <point x="1268" y="59" type="curve" name="hr01"/>
-      <point x="1375" y="59" type="line" name="hr03"/>
+      <point x="1268" y="59" type="curve"/>
+      <point x="1375" y="59" type="line"/>
       <point x="1375" y="346"/>
       <point x="1139" y="581"/>
       <point x="845" y="608" type="curve"/>
@@ -40,7 +40,7 @@
       <point x="739" y="905" type="line"/>
       <point x="278" y="905" type="line"/>
       <point x="278" y="802" type="line"/>
-      <point x="739" y="802" type="line" name="hr02"/>
+      <point x="739" y="802" type="line"/>
       <point x="739" y="608" type="line"/>
       <point x="444" y="581"/>
       <point x="209" y="346"/>

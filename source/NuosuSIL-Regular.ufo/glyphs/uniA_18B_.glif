@@ -6,7 +6,7 @@
     <contour>
       <point x="385" y="0" type="line"/>
       <point x="492" y="0" type="line"/>
-      <point x="492" y="524" type="line" name="hr07"/>
+      <point x="492" y="524" type="line"/>
       <point x="1077" y="260" type="line"/>
       <point x="1077" y="1617" type="line"/>
       <point x="1339" y="1405" type="line"/>
@@ -33,17 +33,17 @@
     </contour>
     <contour>
       <point x="450" y="1098" type="line"/>
-      <point x="557" y="1098" type="line" name="hr01"/>
+      <point x="557" y="1098" type="line"/>
       <point x="557" y="1266" type="line"/>
       <point x="730" y="1266" type="line"/>
       <point x="730" y="1370" type="line"/>
-      <point x="557" y="1370" type="line" name="hr06"/>
+      <point x="557" y="1370" type="line"/>
       <point x="557" y="1537" type="line"/>
-      <point x="450" y="1537" type="line" name="hr05"/>
-      <point x="450" y="1370" type="line" name="hr04"/>
+      <point x="450" y="1537" type="line"/>
+      <point x="450" y="1370" type="line"/>
       <point x="278" y="1370" type="line"/>
-      <point x="278" y="1266" type="line" name="hr03"/>
-      <point x="450" y="1266" type="line" name="hr02"/>
+      <point x="278" y="1266" type="line"/>
+      <point x="450" y="1266" type="line"/>
     </contour>
     <contour>
       <point x="289" y="1602" type="line"/>

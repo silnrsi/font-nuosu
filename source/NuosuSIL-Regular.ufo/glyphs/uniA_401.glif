@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="660" y="-47" type="line"/>
-      <point x="660" y="844" type="line" name="hr02"/>
+      <point x="660" y="844" type="line"/>
       <point x="980" y="844" type="line"/>
       <point x="808" y="248" type="line"/>
       <point x="911" y="220" type="line"/>
@@ -14,7 +14,7 @@
       <point x="1292" y="248" type="line"/>
       <point x="1120" y="844" type="line"/>
       <point x="1373" y="844" type="line"/>
-      <point x="1373" y="948" type="line" name="hr01"/>
+      <point x="1373" y="948" type="line"/>
       <point x="1122" y="948" type="line"/>
       <point x="1294" y="1541" type="line"/>
       <point x="1192" y="1569" type="line"/>

@@ -20,13 +20,13 @@
       <point x="806" y="450" type="line"/>
       <point x="806" y="0" type="line"/>
       <point x="913" y="0" type="line"/>
-      <point x="913" y="450" type="line" name="hr01"/>
+      <point x="913" y="450" type="line"/>
       <point x="1184" y="450" type="line"/>
-      <point x="1184" y="554" type="line" name="hr04"/>
+      <point x="1184" y="554" type="line"/>
       <point x="913" y="554" type="line"/>
-      <point x="913" y="844" type="line" name="hr03"/>
+      <point x="913" y="844" type="line"/>
       <point x="1184" y="844" type="line"/>
-      <point x="1184" y="948" type="line" name="hr02"/>
+      <point x="1184" y="948" type="line"/>
       <point x="913" y="948" type="line"/>
       <point x="913" y="1639" type="line"/>
       <point x="1346" y="1401" type="line"/>

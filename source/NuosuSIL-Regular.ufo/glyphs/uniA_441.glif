@@ -8,9 +8,9 @@
       <point x="1306" y="116" type="line"/>
       <point x="875" y="116"/>
       <point x="524" y="436"/>
-      <point x="497" y="844" type="curve" name="hr01"/>
+      <point x="497" y="844" type="curve"/>
       <point x="1057" y="844" type="line"/>
-      <point x="1057" y="948" type="line" name="hr02"/>
+      <point x="1057" y="948" type="line"/>
       <point x="497" y="948" type="line"/>
       <point x="524" y="1356"/>
       <point x="876" y="1676"/>

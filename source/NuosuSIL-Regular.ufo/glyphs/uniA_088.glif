@@ -45,7 +45,7 @@
       <point x="999" y="750" type="line"/>
       <point x="1105" y="750" type="line"/>
       <point x="1105" y="1041" type="line"/>
-      <point x="999" y="1041" type="line" name="hr01"/>
+      <point x="999" y="1041" type="line"/>
     </contour>
   </outline>
 </glyph>

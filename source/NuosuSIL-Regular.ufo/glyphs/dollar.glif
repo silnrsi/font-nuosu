@@ -49,7 +49,7 @@
       <point x="479" y="39" type="line"/>
       <point x="278" y="57"/>
       <point x="169" y="160"/>
-      <point x="156" y="349" type="curve" name="hr01"/>
+      <point x="156" y="349" type="curve"/>
       <point x="110" y="349" type="line"/>
       <point x="110" y="53" type="line"/>
       <point x="222" y="4"/>

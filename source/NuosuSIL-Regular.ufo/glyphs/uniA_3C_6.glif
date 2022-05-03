@@ -6,9 +6,9 @@
     <contour>
       <point x="739" y="0" type="line"/>
       <point x="845" y="0" type="line"/>
-      <point x="845" y="438" type="line" name="hr01"/>
+      <point x="845" y="438" type="line"/>
       <point x="1045" y="438" type="line"/>
-      <point x="1045" y="542" type="line" name="hr04"/>
+      <point x="1045" y="542" type="line"/>
       <point x="845" y="542" type="line"/>
       <point x="845" y="1040" type="line"/>
       <point x="1056" y="1000"/>
@@ -30,9 +30,9 @@
       <point x="317" y="718"/>
       <point x="527" y="1000"/>
       <point x="739" y="1040" type="curve"/>
-      <point x="739" y="542" type="line" name="hr03"/>
+      <point x="739" y="542" type="line"/>
       <point x="538" y="542" type="line"/>
-      <point x="538" y="438" type="line" name="hr02"/>
+      <point x="538" y="438" type="line"/>
       <point x="739" y="438" type="line"/>
     </contour>
   </outline>

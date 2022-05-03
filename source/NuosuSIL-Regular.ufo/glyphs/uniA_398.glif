@@ -46,9 +46,9 @@
       <point x="745" y="1123" type="line"/>
       <point x="745" y="1395" type="line"/>
       <point x="638" y="1395" type="line"/>
-      <point x="638" y="1123" type="line" name="hr02"/>
+      <point x="638" y="1123" type="line"/>
       <point x="412" y="1123" type="line"/>
-      <point x="412" y="1019" type="line" name="hr01"/>
+      <point x="412" y="1019" type="line"/>
       <point x="638" y="1019" type="line"/>
     </contour>
     <contour>

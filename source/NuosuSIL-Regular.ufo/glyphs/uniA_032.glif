@@ -19,7 +19,7 @@
       <point x="1294" y="1021"/>
       <point x="1323" y="1174"/>
       <point x="1323" y="1369" type="curve"/>
-      <point x="1216" y="1369" type="line" name="hr01"/>
+      <point x="1216" y="1369" type="line"/>
       <point x="1216" y="1237"/>
       <point x="1202" y="1125"/>
       <point x="1176" y="1033" type="curve"/>

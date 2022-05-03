@@ -29,7 +29,7 @@
     </contour>
     <contour>
       <point x="1131" y="226" type="line"/>
-      <point x="1238" y="226" type="line" name="hr01"/>
+      <point x="1238" y="226" type="line"/>
       <point x="1238" y="672" type="line"/>
       <point x="1131" y="672" type="line"/>
     </contour>
