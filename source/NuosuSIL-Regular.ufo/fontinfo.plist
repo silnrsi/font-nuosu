@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1800</integer>
   <key>copyright</key>
-  <string>Copyright (c) 1999-2021 SIL International</string>
+  <string>Copyright (c) 1999-2022 SIL International</string>
   <key>descender</key>
   <integer>-500</integer>
   <key>familyName</key>
@@ -25,9 +25,9 @@
   <key>openTypeNameDesigner</key>
   <string>Peter Constable, Alex Kotlar, Peter Martin</string>
   <key>openTypeNameDesignerURL</key>
-  <string>http://scripts.sil.org/</string>
+  <string>https://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 1999-2021 SIL International (http://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL".
+  <string>Copyright (c) 1999-2022 SIL International (http://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
@@ -71,11 +71,11 @@ This license becomes null and void if any of the above conditions are not met.
 DISCLAIMER
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNameLicenseURL</key>
-  <string>http://scripts.sil.org/OFL</string>
+  <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
   <string>SIL International</string>
   <key>openTypeNameManufacturerURL</key>
-  <string>http://www.sil.org/</string>
+  <string>https://www.sil.org/</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>Nuosu SIL</string>
   <key>openTypeNamePreferredSubfamilyName</key>
@@ -83,7 +83,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Nuosu SIL Regular: 2022</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.201</string>
+  <string>Version 2.300</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -205,7 +205,33 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>201</integer>
+  <integer>300</integer>
+  <key>woffMetadataCredits</key>
+  <dict>
+    <key>credits</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Peter Constable, Alex Kotlar, Peter Martin, Bobby de Vos</string>
+        <key>role</key>
+        <string>SIL font engineers and designers</string>
+        <key>url</key>
+        <string>https://software.sil.org/nuosu/</string>
+      </dict>
+    </array>
+  </dict>
+  <key>woffMetadataDescription</key>
+  <dict>
+    <key>text</key>
+    <array>
+      <dict>
+        <key>text</key>
+        <string> Nuosu SIL (originally SIL Yi) was developed in 2000 as a single Unicode font for the standardized Yi script used by a large ethnic group in southwestern China.</string>
+      </dict>
+    </array>
+    <key>url</key>
+    <string>https://software.sil.org/nuosu/</string>
+  </dict>
   <key>xHeight</key>
   <integer>1000</integer>
 </dict>

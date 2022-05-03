@@ -38,6 +38,9 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+4 May 2022 Version 2.300
+- Outlines cleaned up to remove cutouts
+
 21 Oct 2020 Version 2.200
 - Build changed to use UFO+designspace workflow
 - Corrected shape of U+300D and U+300F

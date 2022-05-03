@@ -6,36 +6,6 @@
   <dict>
     <key>com.schriftgestaltung.Glyphs.groupsNotInFeature</key>
     <array/>
-    <key>com.schriftgestaltung.Glyphs.layerLib.public.background</key>
-    <dict>
-      <key>com.fontlab.layer.locked</key>
-      <integer>0</integer>
-      <key>com.fontlab.layer.name</key>
-      <string>public.background</string>
-      <key>com.fontlab.layer.opacity</key>
-      <integer>1</integer>
-      <key>com.fontlab.layer.service</key>
-      <integer>1</integer>
-      <key>com.fontlab.layer.visible</key>
-      <integer>1</integer>
-      <key>com.fontlab.layer.wireframe</key>
-      <integer>1</integer>
-    </dict>
-    <key>com.schriftgestaltung.Glyphs.layerLib.public.default</key>
-    <dict>
-      <key>com.fontlab.layer.locked</key>
-      <integer>0</integer>
-      <key>com.fontlab.layer.name</key>
-      <string>Regular</string>
-      <key>com.fontlab.layer.opacity</key>
-      <integer>1</integer>
-      <key>com.fontlab.layer.service</key>
-      <integer>0</integer>
-      <key>com.fontlab.layer.visible</key>
-      <integer>1</integer>
-      <key>com.fontlab.layer.wireframe</key>
-      <integer>0</integer>
-    </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
   <string>3124</string>
