@@ -2,20 +2,20 @@
 <glyph name="uniA2CA" format="2">
   <outline>
     <contour>
-      <point x="1310" y="598" type="line"/>
-      <point x="258" y="1752" type="line"/>
-      <point x="329" y="1813" type="line"/>
-      <point x="1214" y="843" type="line"/>
-      <point x="1214" y="1802" type="line"/>
-      <point x="1310" y="1802" type="line"/>
+      <point x="1305" y="582" type="line"/>
+      <point x="251" y="1739" type="line"/>
+      <point x="330" y="1806" type="line"/>
+      <point x="1199" y="854" type="line"/>
+      <point x="1199" y="1793" type="line"/>
+      <point x="1305" y="1793" type="line"/>
     </contour>
     <contour>
-      <point x="1335" y="51" type="line"/>
-      <point x="1264" y="-11" type="line"/>
-      <point x="379" y="959" type="line"/>
-      <point x="379" y="0" type="line"/>
-      <point x="283" y="0" type="line"/>
-      <point x="283" y="1204" type="line"/>
+      <point x="1333" y="55" type="line"/>
+      <point x="1254" y="-13" type="line"/>
+      <point x="385" y="939" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="278" y="1211" type="line"/>
     </contour>
   </outline>
 </glyph>

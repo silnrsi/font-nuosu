@@ -2,20 +2,14 @@
 <glyph name="uni3015" format="2">
   <outline>
     <contour>
-      <point x="825" y="361" type="line"/>
-      <point x="419" y="20" type="line"/>
-      <point x="483" y="-10" type="line"/>
       <point x="896" y="311" type="line"/>
       <point x="896" y="1471" type="line"/>
       <point x="483" y="1793" type="line"/>
-      <point x="419" y="1762" type="line"/>
-      <point x="825" y="1429" type="line"/>
-    </contour>
-    <contour>
-      <point x="789" y="363" type="move"/>
+      <point x="419" y="1707" type="line"/>
+      <point x="789" y="1418" type="line"/>
+      <point x="789" y="361" type="line"/>
       <point x="419" y="74" type="line"/>
       <point x="483" y="-12" type="line"/>
-      <point x="896" y="310" type="line"/>
     </contour>
   </outline>
 </glyph>

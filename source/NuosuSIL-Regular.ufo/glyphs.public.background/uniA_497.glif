@@ -2,16 +2,16 @@
 <glyph name="uniA497" format="2">
   <outline>
     <contour>
-      <point x="1306" y="1496" type="line"/>
-      <point x="1244" y="1424" type="line"/>
-      <point x="975" y="1643" type="line"/>
-      <point x="975" y="266" type="line"/>
-      <point x="383" y="533" type="line"/>
-      <point x="383" y="0" type="line"/>
-      <point x="287" y="0" type="line"/>
-      <point x="287" y="680" type="line"/>
-      <point x="879" y="412" type="line"/>
-      <point x="879" y="1842" type="line"/>
+      <point x="1304" y="1486" type="line"/>
+      <point x="1235" y="1405" type="line"/>
+      <point x="974" y="1617" type="line"/>
+      <point x="974" y="260" type="line"/>
+      <point x="389" y="524" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="282" y="687" type="line"/>
+      <point x="868" y="421" type="line"/>
+      <point x="868" y="1839" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,26 +2,28 @@
 <glyph name="uniA262" format="2">
   <outline>
     <contour>
-      <point x="846" y="196" type="line"/>
-      <point x="469" y="507" type="line"/>
-      <point x="469" y="-4" type="line"/>
-      <point x="373" y="-4" type="line"/>
-      <point x="373" y="708" type="line"/>
-      <point x="750" y="396" type="line"/>
-      <point x="750" y="1260" type="line"/>
-      <point x="310" y="1504" type="line"/>
-      <point x="310" y="911" type="line"/>
-      <point x="214" y="911" type="line"/>
-      <point x="214" y="1665" type="line"/>
-      <point x="750" y="1367" type="line"/>
-      <point x="750" y="1798" type="line"/>
-      <point x="846" y="1798" type="line"/>
-      <point x="846" y="1313" type="line"/>
-      <point x="1283" y="1071" type="line"/>
-      <point x="1283" y="1647" type="line"/>
-      <point x="1379" y="1647" type="line"/>
-      <point x="1379" y="910" type="line"/>
-      <point x="846" y="1206" type="line"/>
+      <point x="847" y="187" type="line"/>
+      <point x="474" y="494" type="line"/>
+      <point x="474" y="-4" type="line"/>
+      <point x="367" y="-4" type="line"/>
+      <point x="367" y="719" type="line"/>
+      <point x="740" y="411" type="line"/>
+      <point x="740" y="1248" type="line"/>
+      <point x="597" y="1328"/>
+      <point x="460" y="1403"/>
+      <point x="317" y="1483" type="curve"/>
+      <point x="317" y="900" type="line"/>
+      <point x="210" y="900" type="line"/>
+      <point x="210" y="1662" type="line"/>
+      <point x="740" y="1367" type="line"/>
+      <point x="740" y="1789" type="line"/>
+      <point x="847" y="1789" type="line"/>
+      <point x="847" y="1307" type="line"/>
+      <point x="1267" y="1074" type="line"/>
+      <point x="1267" y="1640" type="line"/>
+      <point x="1374" y="1640" type="line"/>
+      <point x="1374" y="896" type="line"/>
+      <point x="847" y="1188" type="line"/>
     </contour>
   </outline>
 </glyph>

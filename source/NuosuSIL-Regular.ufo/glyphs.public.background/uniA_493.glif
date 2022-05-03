@@ -2,12 +2,12 @@
 <glyph name="uniA493" format="2">
   <outline>
     <contour>
-      <point x="1168" y="1482" type="line"/>
-      <point x="1127" y="1396" type="line"/>
-      <point x="521" y="1670" type="line"/>
-      <point x="521" y="0" type="line"/>
-      <point x="425" y="0" type="line"/>
-      <point x="425" y="1815" type="line"/>
+      <point x="1167" y="1474" type="line"/>
+      <point x="1122" y="1379" type="line"/>
+      <point x="526" y="1648" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="419" y="1809" type="line"/>
     </contour>
   </outline>
 </glyph>

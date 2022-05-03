@@ -2,36 +2,35 @@
 <glyph name="uniA21D" format="2">
   <outline>
     <contour>
-      <point x="379" y="975" type="line"/>
-      <point x="283" y="975" type="line"/>
-      <point x="283" y="1536" type="line"/>
-      <point x="379" y="1536" type="line"/>
+      <point x="385" y="964" type="line"/>
+      <point x="278" y="964" type="line"/>
+      <point x="278" y="1530" type="line"/>
+      <point x="385" y="1530" type="line"/>
     </contour>
     <contour>
-      <point x="844" y="274" type="line"/>
-      <point x="379" y="531" type="line"/>
-      <point x="379" y="0" type="line"/>
-      <point x="283" y="0" type="line"/>
-      <point x="283" y="690" type="line"/>
-      <point x="749" y="434" type="line"/>
-      <point x="749" y="1254" type="line"/>
-      <point x="749" y="1802" type="line"/>
-      <point x="844" y="1802" type="line"/>
-      <point x="844" y="1503" type="line"/>
-      <point x="955" y="1629"/>
-      <point x="1146" y="1694"/>
-      <point x="1310" y="1694" type="curve"/>
-      <point x="1310" y="1601" type="line"/>
-      <point x="1079" y="1601"/>
-      <point x="844" y="1463"/>
-      <point x="844" y="1254" type="curve" smooth="yes"/>
-      <point x="844" y="1045"/>
-      <point x="1079" y="907"/>
-      <point x="1310" y="907" type="curve"/>
-      <point x="1310" y="814" type="line"/>
-      <point x="1146" y="814"/>
-      <point x="955" y="879"/>
-      <point x="844" y="1005" type="curve"/>
+      <point x="845" y="267" type="line"/>
+      <point x="385" y="521" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="278" y="698" type="line"/>
+      <point x="739" y="444" type="line"/>
+      <point x="739" y="1793" type="line"/>
+      <point x="845" y="1793" type="line"/>
+      <point x="845" y="1507" type="line"/>
+      <point x="957" y="1625"/>
+      <point x="1144" y="1686"/>
+      <point x="1305" y="1686" type="curve" name="hr01"/>
+      <point x="1305" y="1582" type="line"/>
+      <point x="1077" y="1582"/>
+      <point x="845" y="1448"/>
+      <point x="845" y="1245" type="curve" smooth="yes" name="hr02"/>
+      <point x="845" y="1043"/>
+      <point x="1077" y="908"/>
+      <point x="1305" y="908" type="curve" name="hr03"/>
+      <point x="1305" y="805" type="line"/>
+      <point x="1144" y="805"/>
+      <point x="956" y="866"/>
+      <point x="845" y="983" type="curve" name="hr04"/>
     </contour>
   </outline>
 </glyph>

@@ -2,18 +2,18 @@
 <glyph name="uniA4BC" format="2">
   <outline>
     <contour>
-      <point x="1357" y="23" type="line"/>
-      <point x="1273" y="-23" type="line"/>
-      <point x="801" y="798" type="line"/>
-      <point x="336" y="-23" type="line"/>
-      <point x="253" y="23" type="line"/>
-      <point x="746" y="894" type="line"/>
-      <point x="236" y="1780" type="line"/>
-      <point x="320" y="1825" type="line"/>
-      <point x="801" y="990" type="line"/>
-      <point x="1273" y="1825" type="line"/>
-      <point x="1357" y="1780" type="line"/>
-      <point x="855" y="894" type="line"/>
+      <point x="1354" y="27" type="line"/>
+      <point x="1261" y="-25" type="line"/>
+      <point x="796" y="784" type="line"/>
+      <point x="339" y="-25" type="line"/>
+      <point x="247" y="27" type="line"/>
+      <point x="735" y="890" type="line"/>
+      <point x="230" y="1767" type="line"/>
+      <point x="323" y="1818" type="line"/>
+      <point x="796" y="996" type="line"/>
+      <point x="1261" y="1818" type="line"/>
+      <point x="1354" y="1767" type="line"/>
+      <point x="857" y="890" type="line"/>
     </contour>
   </outline>
 </glyph>

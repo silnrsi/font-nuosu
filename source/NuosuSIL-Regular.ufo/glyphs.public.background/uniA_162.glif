@@ -2,25 +2,25 @@
 <glyph name="uniA162" format="2">
   <outline>
     <contour>
-      <point x="1216" y="20" type="line"/>
-      <point x="1128" y="-20" type="line"/>
-      <point x="728" y="791" type="line"/>
-      <point x="328" y="-20" type="line"/>
-      <point x="240" y="20" type="line"/>
-      <point x="675" y="899" type="line"/>
-      <point x="239" y="1782" type="line"/>
-      <point x="327" y="1822" type="line"/>
-      <point x="728" y="1007" type="line"/>
-      <point x="1129" y="1822" type="line"/>
-      <point x="1217" y="1782" type="line"/>
-      <point x="805" y="947" type="line"/>
-      <point x="1283" y="947" type="line"/>
-      <point x="1283" y="1318" type="line"/>
-      <point x="1379" y="1318" type="line"/>
-      <point x="1379" y="483" type="line"/>
-      <point x="1283" y="483" type="line"/>
-      <point x="1283" y="854" type="line"/>
-      <point x="803" y="854" type="line"/>
+      <point x="1215" y="24" type="line"/>
+      <point x="1117" y="-21" type="line"/>
+      <point x="724" y="775" type="line"/>
+      <point x="332" y="-21" type="line"/>
+      <point x="234" y="24" type="line"/>
+      <point x="666" y="895" type="line"/>
+      <point x="233" y="1769" type="line"/>
+      <point x="331" y="1814" type="line"/>
+      <point x="724" y="1014" type="line"/>
+      <point x="1118" y="1814" type="line"/>
+      <point x="1215" y="1769" type="line"/>
+      <point x="809" y="948" type="line"/>
+      <point x="1267" y="948" type="line"/>
+      <point x="1267" y="1315" type="line"/>
+      <point x="1374" y="1315" type="line"/>
+      <point x="1374" y="477" type="line"/>
+      <point x="1267" y="477" type="line"/>
+      <point x="1267" y="844" type="line"/>
+      <point x="807" y="844" type="line"/>
     </contour>
   </outline>
 </glyph>

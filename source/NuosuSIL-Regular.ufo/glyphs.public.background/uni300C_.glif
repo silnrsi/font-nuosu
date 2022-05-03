@@ -2,27 +2,11 @@
 <glyph name="uni300C" format="2">
   <outline>
     <contour>
-      <point x="832" y="-15" type="line"/>
-      <point x="419" y="806" type="line"/>
-      <point x="832" y="1628" type="line"/>
-      <point x="895" y="1597" type="line"/>
-      <point x="499" y="806" type="line"/>
-      <point x="895" y="15" type="line"/>
-    </contour>
-    <contour>
-      <point x="832" y="-15" type="line"/>
-      <point x="419" y="806" type="line"/>
-      <point x="832" y="1628" type="line"/>
-      <point x="895" y="1597" type="line"/>
-      <point x="499" y="806" type="line"/>
-      <point x="895" y="15" type="line"/>
-    </contour>
-    <contour>
       <point x="419" y="0" type="line"/>
-      <point x="419" y="1628" type="line"/>
-      <point x="877" y="1628" type="line"/>
-      <point x="877" y="1520" type="line"/>
-      <point x="526" y="1520" type="line"/>
+      <point x="419" y="1793" type="line"/>
+      <point x="877" y="1793" type="line"/>
+      <point x="877" y="1685" type="line"/>
+      <point x="526" y="1685" type="line"/>
       <point x="526" y="0" type="line"/>
     </contour>
   </outline>

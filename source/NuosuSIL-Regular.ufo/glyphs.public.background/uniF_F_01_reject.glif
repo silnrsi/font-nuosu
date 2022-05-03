@@ -2,12 +2,12 @@
 <glyph name="uniFF01_reject" format="2">
   <outline>
     <contour>
-      <point x="509" y="413" type="line"/>
-      <point x="403" y="413" type="line"/>
-      <point x="403" y="1596" type="line"/>
-      <point x="403" y="1595"/>
-      <point x="511" y="1596"/>
-      <point x="510" y="1596" type="curve"/>
+      <point x="509" y="433" type="line"/>
+      <point x="403" y="433" type="line"/>
+      <point x="403" y="1616" type="line"/>
+      <point x="403" y="1615"/>
+      <point x="511" y="1616"/>
+      <point x="510" y="1616" type="curve"/>
     </contour>
     <contour>
       <point x="455" y="316" type="line" smooth="yes"/>
