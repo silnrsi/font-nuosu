@@ -94,16 +94,10 @@
       <point x="633" y="28"/>
     </contour>
     <contour>
-      <point x="530" y="385" type="line"/>
-      <point x="536" y="399" type="line"/>
-      <point x="542" y="385" type="line"/>
-    </contour>
-    <contour>
       <point x="536" y="399" type="curve"/>
       <point x="485" y="525"/>
       <point x="454" y="670"/>
       <point x="448" y="844" type="curve"/>
-      <point x="448" y="844" type="line"/>
       <point x="624" y="844" type="line"/>
       <point x="620" y="668"/>
       <point x="588" y="525"/>

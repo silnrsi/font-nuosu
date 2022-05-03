@@ -28,9 +28,7 @@
       <point x="1102" y="1042" type="line"/>
       <point x="981" y="1355" type="line"/>
       <point x="881" y="1318" type="line"/>
-      <point x="928" y="1196"/>
-      <point x="977" y="1070"/>
-      <point x="1024" y="948" type="curve"/>
+      <point x="1024" y="948" type="line"/>
       <point x="663" y="948" type="line"/>
       <point x="984" y="1775" type="line"/>
       <point x="882" y="1811" type="line"/>

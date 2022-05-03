@@ -7,10 +7,10 @@
   <outline>
     <component base="D"/>
     <contour>
-      <point x="37" y="705" type="line"/>
-      <point x="850" y="705" type="line"/>
-      <point x="850" y="823" type="line"/>
-      <point x="37" y="823" type="line"/>
+      <point x="36" y="705" type="line"/>
+      <point x="849" y="705" type="line"/>
+      <point x="849" y="823" type="line"/>
+      <point x="36" y="823" type="line"/>
     </contour>
   </outline>
 </glyph>

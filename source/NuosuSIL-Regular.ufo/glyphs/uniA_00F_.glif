@@ -17,16 +17,16 @@
       <point x="419" y="249" type="curve" smooth="yes"/>
       <point x="419" y="358"/>
       <point x="608" y="453"/>
-      <point x="768" y="453" type="curve"/>
+      <point x="768" y="453" type="curve" smooth="yes"/>
       <point x="920" y="453" type="line"/>
       <point x="920" y="556" type="line"/>
-      <point x="764" y="556" type="line"/>
+      <point x="764" y="556" type="line" smooth="yes"/>
       <point x="702" y="556"/>
       <point x="419" y="608"/>
       <point x="419" y="691" type="curve" smooth="yes" name="hr02"/>
       <point x="419" y="742"/>
       <point x="503" y="844"/>
-      <point x="792" y="844" type="curve"/>
+      <point x="792" y="844" type="curve" smooth="yes"/>
       <point x="845" y="844" type="line"/>
       <point x="845" y="1024" type="line"/>
       <point x="1116" y="1044"/>
@@ -69,7 +69,6 @@
       <point x="1082" y="1696"/>
       <point x="1246" y="1563"/>
       <point x="1246" y="1421" type="curve" smooth="yes"/>
-      <point x="1246" y="1421" type="line" smooth="yes"/>
       <point x="1246" y="1281"/>
       <point x="1082" y="1145"/>
     </contour>

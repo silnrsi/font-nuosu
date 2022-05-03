@@ -86,7 +86,6 @@
       <point x="360" y="459"/>
       <point x="459" y="512"/>
       <point x="606" y="571" type="curve"/>
-      <point x="606" y="204" type="line" name="hr04"/>
       <point x="606" y="204" type="line"/>
       <point x="519" y="134"/>
       <point x="449" y="99"/>

@@ -70,7 +70,6 @@
       <point x="1044" y="1031"/>
       <point x="1156" y="951"/>
       <point x="1156" y="896" type="curve" smooth="yes" name="hr05"/>
-      <point x="1156" y="896" type="line" smooth="yes"/>
       <point x="1156" y="841"/>
       <point x="1045" y="761"/>
     </contour>

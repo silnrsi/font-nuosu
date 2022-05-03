@@ -8,9 +8,7 @@
       <point x="385" y="0" type="line"/>
       <point x="385" y="13" type="line"/>
       <point x="792" y="782" type="line"/>
-      <point x="929" y="521"/>
-      <point x="1061" y="271"/>
-      <point x="1198" y="10" type="curve"/>
+      <point x="1198" y="10" type="line"/>
       <point x="1199" y="0" type="line"/>
       <point x="1305" y="0" type="line"/>
       <point x="1305" y="1793" type="line"/>
