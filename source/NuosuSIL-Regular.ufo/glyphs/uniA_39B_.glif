@@ -4,34 +4,34 @@
   <unicode hex="A39B"/>
   <outline>
     <contour>
-      <point x="1374" y="890" type="line"/>
-      <point x="845" y="890" type="line"/>
-      <point x="845" y="0" type="line"/>
       <point x="739" y="0" type="line"/>
-      <point x="739" y="890" type="line"/>
-      <point x="210" y="890" type="line"/>
-      <point x="210" y="994" type="line"/>
-      <point x="739" y="994" type="line"/>
-      <point x="739" y="1664" type="line"/>
-      <point x="1199" y="1453" type="line"/>
-      <point x="1199" y="1793" type="line"/>
-      <point x="1305" y="1793" type="line"/>
-      <point x="1305" y="1292" type="line"/>
-      <point x="845" y="1502" type="line"/>
-      <point x="845" y="994" type="line"/>
+      <point x="845" y="0" type="line"/>
+      <point x="845" y="890" type="line"/>
+      <point x="1374" y="890" type="line"/>
       <point x="1374" y="994" type="line"/>
+      <point x="845" y="994" type="line"/>
+      <point x="845" y="1502" type="line"/>
+      <point x="1305" y="1292" type="line"/>
+      <point x="1305" y="1793" type="line"/>
+      <point x="1199" y="1793" type="line"/>
+      <point x="1199" y="1453" type="line"/>
+      <point x="739" y="1664" type="line"/>
+      <point x="739" y="994" type="line"/>
+      <point x="210" y="994" type="line"/>
+      <point x="210" y="890" type="line"/>
+      <point x="739" y="890" type="line"/>
     </contour>
     <contour>
-      <point x="1238" y="226" type="line" name="hr01"/>
-      <point x="1131" y="226" type="line"/>
-      <point x="1131" y="672" type="line"/>
-      <point x="1238" y="672" type="line"/>
-    </contour>
-    <contour>
-      <point x="452" y="226" type="line"/>
       <point x="346" y="226" type="line"/>
-      <point x="346" y="672" type="line"/>
+      <point x="452" y="226" type="line"/>
       <point x="452" y="672" type="line"/>
+      <point x="346" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="1131" y="226" type="line"/>
+      <point x="1238" y="226" type="line" name="hr01"/>
+      <point x="1238" y="672" type="line"/>
+      <point x="1131" y="672" type="line"/>
     </contour>
   </outline>
 </glyph>
