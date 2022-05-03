@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Nuosu SIL</string>
   <key>openTypeHeadCreated</key>
-  <string>2021/06/25 09:26:45</string>
+  <string>2022/05/03 17:08:37</string>
   <key>openTypeHheaAscender</key>
   <integer>2200</integer>
   <key>openTypeHheaDescender</key>
@@ -81,7 +81,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Nuosu SIL Regular: 2021</string>
+  <string>SIL International: Nuosu SIL Regular: 2022</string>
   <key>openTypeNameVersion</key>
   <string>Version 2.201</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -101,6 +101,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>0</integer>
     <integer>0</integer>
     <integer>0</integer>
+  </array>
+  <key>openTypeOS2Selection</key>
+  <array>
+    <integer>7</integer>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>512</integer>
