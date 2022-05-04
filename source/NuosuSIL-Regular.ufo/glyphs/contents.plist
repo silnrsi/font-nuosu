@@ -3156,8 +3156,6 @@
   <string>uniF_E_F_F_.glif</string>
   <key>uniFF01</key>
   <string>uniF_F_01.glif</string>
-  <key>uniFF01_reject</key>
-  <string>uniF_F_01_reject.glif</string>
   <key>uniFF02</key>
   <string>uniF_F_02.glif</string>
   <key>uniFF08</key>
@@ -3174,8 +3172,6 @@
   <string>uniF_F_1A_.glif</string>
   <key>uniFF1B</key>
   <string>uniF_F_1B_.glif</string>
-  <key>uniFF1F_reject</key>
-  <string>uniF_F_1F__reject.glif</string>
   <key>uniFF3B</key>
   <string>uniF_F_3B_.glif</string>
   <key>uniFF3D</key>

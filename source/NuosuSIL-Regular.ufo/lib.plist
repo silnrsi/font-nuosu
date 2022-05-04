@@ -1616,7 +1616,6 @@
     <string>uniFE0E</string>
     <string>uniFE0F</string>
     <string>uniFEFF</string>
-    <string>uniFF01_reject</string>
     <string>uniFF01</string>
     <string>uniFF02</string>
     <string>uniFF08</string>
@@ -1649,7 +1648,6 @@
     <string>GrCapPi</string>
     <string>HyphenMinus</string>
     <string>LtnCapEsh</string>
-    <string>uniFF1F_reject</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
