@@ -1236,6 +1236,50 @@ U+A4C6">
       <comment>uniA490 uniA491 uniA492 uniA493 uniA494 uniA495 uniA496 uniA497 uniA498 uniA499 uniA49A uniA49B uniA49C uniA49D uniA49E uniA49F uniA4A0 uniA4A1 uniA4A2 uniA4A3 uniA4A4 uniA4A5 uniA4A6 uniA4A7 uniA4A8 uniA4A9 uniA4AA uniA4AB uniA4AC uniA4AD uniA4AE uniA4AF uniA4B0 uniA4B1 uniA4B2 uniA4B3 uniA4B4 uniA4B5 uniA4B6 uniA4B7 uniA4B8 uniA4B9 uniA4BA uniA4BB uniA4BC uniA4BD uniA4BE uniA4BF uniA4C0 uniA4C1 uniA4C2 uniA4C3 uniA4C4 uniA4C5 uniA4C6</comment>
       <string>\u00A490\u00A491\u00A492\u00A493\u00A494\u00A495\u00A496\u00A497\u00A498\u00A499\u00A49A\u00A49B\u00A49C\u00A49D\u00A49E\u00A49F\u00A4A0\u00A4A1\u00A4A2\u00A4A3\u00A4A4\u00A4A5\u00A4A6\u00A4A7\u00A4A8\u00A4A9\u00A4AA\u00A4AB\u00A4AC\u00A4AD\u00A4AE\u00A4AF\u00A4B0\u00A4B1\u00A4B2\u00A4B3\u00A4B4\u00A4B5\u00A4B6\u00A4B7\u00A4B8\u00A4B9\u00A4BA\u00A4BB\u00A4BC\u00A4BD\u00A4BE\u00A4BF\u00A4C0\u00A4C1\u00A4C2\u00A4C3\u00A4C4\u00A4C5\u00A4C6</string>
     </test>
+    <test label="U+00B2
+U+00B3
+U+00B9
+U+00BC
+U+00BD
+U+00BE
+U+2074
+U+2075
+U+2076
+U+2077
+U+2088
+U+2460
+U+2461
+U+2462
+U+2463
+U+2464
+U+2465
+U+2466
+U+2467
+U+2468
+U+2469
+U+246A
+U+246B
+U+246C
+U+246D
+U+246E
+U+246F
+U+2470
+U+2471
+U+2472
+U+2473
+U+2776
+U+2777
+U+2778
+U+2779
+U+277A
+U+277B
+U+277C
+U+277D
+U+277E
+U+277F">
+      <comment>uni00B2 uni00B3 uni00B9 onequarter onehalf threequarters uni2074 uni2075 uni2076 uni2077 uni2088 uni2460 uni2461 uni2462 uni2463 uni2464 uni2465 uni2466 uni2467 uni2468 uni2469 uni246A uni246B uni246C uni246D uni246E uni246F uni2470 uni2471 uni2472 uni2473 uni2776 uni2777 uni2778 uni2779 uni277A uni277B uni277C uni277D uni277E uni277F</comment>
+      <string>\u0000B2\u0000B3\u0000B9\u0000BC\u0000BD\u0000BE\u002074\u002075\u002076\u002077\u002088\u002460\u002461\u002462\u002463\u002464\u002465\u002466\u002467\u002468\u002469\u00246A\u00246B\u00246C\u00246D\u00246E\u00246F\u002470\u002471\u002472\u002473\u002776\u002777\u002778\u002779\u00277A\u00277B\u00277C\u00277D\u00277E\u00277F</string>
+    </test>
     <test label="U+0021
 U+0022
 U+0023
@@ -1303,6 +1347,10 @@ U+3014
 U+3015
 U+3016
 U+3017
+U+3018
+U+3019
+U+301A
+U+301B
 U+30FB
 U+FF01
 U+FF02
@@ -1313,12 +1361,18 @@ U+FF0E
 U+FF0F
 U+FF1A
 U+FF1B
+U+FF1F
 U+FF3B
 U+FF3D
 U+FF5B
-U+FF5D">
-      <comment>exclam quotedbl numbersign percent ampersand quotesingle parenleft parenright asterisk comma hyphen period slash colon semicolon question at bracketleft backslash bracketright underscore braceleft braceright exclamdown section guillemotleft paragraph periodcentered guillemotright questiondown uni2010 uni2011 figuredash endash emdash uni2015 quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase dagger daggerdbl bullet ellipsis uni2027 perthousand guilsinglleft guilsinglright uni3001 uni3002 uni3003 uni3008 uni3009 uni300A uni300B uni300C uni300D uni300E uni300F uni3010 uni3011 uni3014 uni3015 uni3016 uni3017 uni30FB uniFF01 uniFF02 uniFF08 uniFF09 uniFF0C uniFF0E uniFF0F uniFF1A uniFF1B uniFF3B uniFF3D uniFF5B uniFF5D</comment>
-      <string>!"#%&amp;'()*,-./:;?@[\]_{}\u0000A1\u0000A7\u0000AB\u0000B6\u0000B7\u0000BB\u0000BF\u002010\u002011\u002012\u002013\u002014\u002015\u002018\u002019\u00201A\u00201C\u00201D\u00201E\u002020\u002021\u002022\u002026\u002027\u002030\u002039\u00203A\u003001\u003002\u003003\u003008\u003009\u00300A\u00300B\u00300C\u00300D\u00300E\u00300F\u003010\u003011\u003014\u003015\u003016\u003017\u0030FB\u00FF01\u00FF02\u00FF08\u00FF09\u00FF0C\u00FF0E\u00FF0F\u00FF1A\u00FF1B\u00FF3B\u00FF3D\u00FF5B\u00FF5D</string>
+U+FF5D
+U+FF61
+U+FF62
+U+FF63
+U+FF64
+U+FF65">
+      <comment>exclam quotedbl numbersign percent ampersand quotesingle parenleft parenright asterisk comma hyphen period slash colon semicolon question at bracketleft backslash bracketright underscore braceleft braceright exclamdown section guillemotleft paragraph periodcentered guillemotright questiondown uni2010 uni2011 figuredash endash emdash uni2015 quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase dagger daggerdbl bullet ellipsis uni2027 perthousand guilsinglleft guilsinglright uni3001 uni3002 uni3003 uni3008 uni3009 uni300A uni300B uni300C uni300D uni300E uni300F uni3010 uni3011 uni3014 uni3015 uni3016 uni3017 uni3018 uni3019 uni301A uni301B uni30FB uniFF01 uniFF02 uniFF08 uniFF09 uniFF0C uniFF0E uniFF0F uniFF1A uniFF1B uniFF1F uniFF3B uniFF3D uniFF5B uniFF5D uniFF61 uniFF62 uniFF63 uniFF64 uniFF65</comment>
+      <string>!"#%&amp;'()*,-./:;?@[\]_{}\u0000A1\u0000A7\u0000AB\u0000B6\u0000B7\u0000BB\u0000BF\u002010\u002011\u002012\u002013\u002014\u002015\u002018\u002019\u00201A\u00201C\u00201D\u00201E\u002020\u002021\u002022\u002026\u002027\u002030\u002039\u00203A\u003001\u003002\u003003\u003008\u003009\u00300A\u00300B\u00300C\u00300D\u00300E\u00300F\u003010\u003011\u003014\u003015\u003016\u003017\u003018\u003019\u00301A\u00301B\u0030FB\u00FF01\u00FF02\u00FF08\u00FF09\u00FF0C\u00FF0E\u00FF0F\u00FF1A\u00FF1B\u00FF1F\u00FF3B\u00FF3D\u00FF5B\u00FF5D\u00FF61\u00FF62\u00FF63\u00FF64\u00FF65</string>
     </test>
   </testgroup>
 </ftml>

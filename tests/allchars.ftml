@@ -198,6 +198,22 @@
       <comment>uni3008</comment>
       <string>\u003008 \u003009 \u00300A \u00300B \u00300C \u00300D \u00300E \u00300F \u003010 \u003011 \u003012 \u003013 \u003014 \u003015 \u003016 \u003017</string>
     </test>
+    <test background="#ffe0e0" label="U+3018">
+      <comment>uni3018</comment>
+      <string>\u003018</string>
+    </test>
+    <test background="#ffe0e0" label="U+3019">
+      <comment>uni3019</comment>
+      <string>\u003019</string>
+    </test>
+    <test background="#ffe0e0" label="U+301A">
+      <comment>uni301A</comment>
+      <string>\u00301A</string>
+    </test>
+    <test background="#ffe0e0" label="U+301B">
+      <comment>uni301B</comment>
+      <string>\u00301B</string>
+    </test>
     <test label="U+30FB">
       <comment>uni30FB</comment>
       <string>\u0030FB</string>
@@ -246,6 +262,10 @@
       <comment>uniFF1A</comment>
       <string>\u00FF1A \u00FF1B</string>
     </test>
+    <test background="#ffe0e0" label="U+FF1F">
+      <comment>uniFF1F</comment>
+      <string>\u00FF1F</string>
+    </test>
     <test label="U+FF3B">
       <comment>uniFF3B</comment>
       <string>\u00FF3B</string>
@@ -257,6 +277,26 @@
     <test label="U+FF5B">
       <comment>uniFF5B</comment>
       <string>\u00FF5B \u00FF5C \u00FF5D \u00FF5E</string>
+    </test>
+    <test background="#ffe0e0" label="U+FF61">
+      <comment>uniFF61</comment>
+      <string>\u00FF61</string>
+    </test>
+    <test background="#ffe0e0" label="U+FF62">
+      <comment>uniFF62</comment>
+      <string>\u00FF62</string>
+    </test>
+    <test background="#ffe0e0" label="U+FF63">
+      <comment>uniFF63</comment>
+      <string>\u00FF63</string>
+    </test>
+    <test background="#ffe0e0" label="U+FF64">
+      <comment>uniFF64</comment>
+      <string>\u00FF64</string>
+    </test>
+    <test background="#ffe0e0" label="U+FF65">
+      <comment>uniFF65</comment>
+      <string>\u00FF65</string>
     </test>
     <test label="U+FFFC">
       <comment>uniFFFC</comment>

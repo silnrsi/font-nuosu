@@ -52,6 +52,7 @@ def doit(args):
     uids = sorted(builder.uids())
     syllables = [uid for uid in uids if get_ucd(uid, 'gc').startswith('L') and uid in block]
     radicals = [uid for uid in uids if get_ucd(uid, 'gc').startswith('S') and uid in block]
+    digits = [uid for uid in uids if builder.char(uid).general == 'No']
     punct = [uid for uid in uids if get_ucd(uid, 'gc').startswith('P')]
 
     # Initialize FTML document:
@@ -122,7 +123,7 @@ def doit(args):
     if test.lower().startswith("proof"):
         # Characters used to create SILE test data
         ftml.startTestGroup('Proof')
-        for section in (syllables, radicals, punct):
+        for section in (syllables, radicals, digits, punct):
             builder.render(section, ftml)
             ftml.closeTest()
 
