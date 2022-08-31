@@ -670,6 +670,14 @@
   <string>uni3016.glif</string>
   <key>uni3017</key>
   <string>uni3017.glif</string>
+  <key>uni3018</key>
+  <string>uni3018.glif</string>
+  <key>uni3019</key>
+  <string>uni3019.glif</string>
+  <key>uni301A</key>
+  <string>uni301A_.glif</string>
+  <key>uni301B</key>
+  <string>uni301B_.glif</string>
   <key>uni30FB</key>
   <string>uni30F_B_.glif</string>
   <key>uniA000</key>
@@ -3172,6 +3180,8 @@
   <string>uniF_F_1A_.glif</string>
   <key>uniFF1B</key>
   <string>uniF_F_1B_.glif</string>
+  <key>uniFF1F</key>
+  <string>uniF_F_1F_.glif</string>
   <key>uniFF3B</key>
   <string>uniF_F_3B_.glif</string>
   <key>uniFF3D</key>
@@ -3184,6 +3194,16 @@
   <string>uniF_F_5D_.glif</string>
   <key>uniFF5E</key>
   <string>uniF_F_5E_.glif</string>
+  <key>uniFF61</key>
+  <string>uniF_F_61.glif</string>
+  <key>uniFF62</key>
+  <string>uniF_F_62.glif</string>
+  <key>uniFF63</key>
+  <string>uniF_F_63.glif</string>
+  <key>uniFF64</key>
+  <string>uniF_F_64.glif</string>
+  <key>uniFF65</key>
+  <string>uniF_F_65.glif</string>
   <key>uniFFFC</key>
   <string>uniF_F_F_C_.glif</string>
   <key>uniFFFD</key>

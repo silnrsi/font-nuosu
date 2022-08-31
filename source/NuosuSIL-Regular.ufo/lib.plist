@@ -379,6 +379,10 @@
     <string>uni3015</string>
     <string>uni3016</string>
     <string>uni3017</string>
+    <string>uni3018</string>
+    <string>uni3019</string>
+    <string>uni301A</string>
+    <string>uni301B</string>
     <string>uni30FB</string>
     <string>uniA000</string>
     <string>uniA001</string>
@@ -1630,12 +1634,18 @@
     <string>uniFF0F</string>
     <string>uniFF1A</string>
     <string>uniFF1B</string>
+    <string>uniFF1F</string>
     <string>uniFF3B</string>
     <string>uniFF3D</string>
     <string>uniFF5B</string>
     <string>uniFF5C</string>
     <string>uniFF5D</string>
     <string>uniFF5E</string>
+    <string>uniFF61</string>
+    <string>uniFF62</string>
+    <string>uniFF63</string>
+    <string>uniFF64</string>
+    <string>uniFF65</string>
     <string>uniFFFC</string>
     <string>uniFFFD</string>
     <string>CombAcute</string>
