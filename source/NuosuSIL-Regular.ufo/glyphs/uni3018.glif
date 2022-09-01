@@ -3,6 +3,43 @@
   <advance width="1600"/>
   <unicode hex="3018"/>
   <outline>
-    <component base="uni3014"/>
+    <contour>
+      <point x="1234" y="1709" type="line"/>
+      <point x="1234" y="1430" type="line"/>
+      <point x="1341" y="1430" type="line"/>
+      <point x="1341" y="1709" type="line"/>
+    </contour>
+    <contour>
+      <point x="1234" y="72" type="line"/>
+      <point x="1341" y="72" type="line"/>
+      <point x="1341" y="351" type="line"/>
+      <point x="1234" y="351" type="line"/>
+    </contour>
+    <contour>
+      <point x="805" y="377" type="line"/>
+      <point x="805" y="1404" type="line"/>
+      <point x="1341" y="1674" type="line"/>
+      <point x="1341" y="1793" type="line"/>
+      <point x="698" y="1471" type="line"/>
+      <point x="698" y="311" type="line"/>
+      <point x="1341" y="-12" type="line"/>
+      <point x="1341" y="107" type="line"/>
+    </contour>
+    <contour>
+      <point x="1067" y="539" type="line"/>
+      <point x="1067" y="1242" type="line"/>
+      <point x="1341" y="1381" type="line"/>
+      <point x="1341" y="1501" type="line"/>
+      <point x="960" y="1308" type="line"/>
+      <point x="960" y="473" type="line"/>
+      <point x="1341" y="280" type="line"/>
+      <point x="1341" y="400" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

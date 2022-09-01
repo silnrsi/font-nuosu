@@ -11,8 +11,9 @@
   <string>3134</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/uni300A/uni300B</string>
-    <string>/uni300E</string>
+    <string>/uni3014/uni3015/uni3018/uni3019/uni300A/uni3016/uni301A/uni301B 
+/uni3002/uniFF61/uni300C/uni300D/uniFF62/uniFF63/uni3001/uniFF64/uniFF65/uni30FB 
+/uni3003/uniFF02/uniFF1F</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
