@@ -1675,5 +1675,10 @@
     <key>mu</key>
     <string>uni03BC</string>
   </dict>
+  <key>public.skipExportGlyphs</key>
+  <array>
+    <string>CombRingAbv</string>
+    <string>CombTilde</string>
+  </array>
 </dict>
 </plist>

@@ -17,5 +17,5 @@ designspace('source/' + FAMILY + '.designspace',
             version = VERSION,
             woff = woff('web/${DS:FILENAME_BASE}',
                 metadata = '../source/${DS:FAMILYNAME_NOSPC}-WOFF-metadata.xml'),
-            pdf = fret(params="-r -oi")
+            pdf = fret(params="-oi")
 )
