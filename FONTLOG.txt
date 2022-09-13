@@ -32,7 +32,7 @@ incorporated into the system to mark one of the tones.
 
 ### 14 Sep 2022 Version 2.300
 - Fixed character U+FF02 by changing encoding to U+FF1F, and then redrawing U+FF02
-- New punctuation characters U+3018..U+301B, U+FF61..U+FF65
+- New punctuation characters U+3018..U+301B, U+FF0D, U+FF61..U+FF65
 - Outlines cleaned up to remove cutouts
 
 ### 21 Oct 2020 Version 2.200

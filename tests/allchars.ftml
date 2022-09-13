@@ -254,6 +254,10 @@
       <comment>uniFF0C</comment>
       <string>\u00FF0C</string>
     </test>
+    <test background="#f0fff0" label="U+FF0D">
+      <comment>uniFF0D</comment>
+      <string>\u00FF0D</string>
+    </test>
     <test label="U+FF0E">
       <comment>uniFF0E</comment>
       <string>\u00FF0E \u00FF0F</string>

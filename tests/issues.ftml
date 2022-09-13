@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>200</fontscale>
+    <fontsrc label="refR">url(../references/NuosuSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="R">url(../results/NuosuSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="noto">url(../references/NotoSansYi-Regular.ttf)</fontsrc>
+    <title>Issues</title>
+  </head>
+  <testgroup label="new character U+FF0D">
+    <test label="fullwidth forms">
+      <string>ꀀ！ꀀ＂ꀀ（ꀀ）ꀀ，ꀀ－ꀀ．ꀀ／ꀀ：ꀀ；ꀀ？ꀀ［ꀀ］ꀀ｛ꀀ｝ꀀ</string>
+    </test>
+  </testgroup>
+</ftml>
