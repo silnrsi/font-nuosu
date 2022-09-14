@@ -1,6 +1,6 @@
 ---
 title: Nuosu SIL - Version History
-fontversion: 2.300
+fontversion: 2.301
 ---
 
 ### 14 Sep 2022 Version 2.300

@@ -1,6 +1,6 @@
 ---
 title: Nuosu SIL - Developer Information
-fontversion: 2.300
+fontversion: 2.301
 ---
 
 ## Welcome font developers!

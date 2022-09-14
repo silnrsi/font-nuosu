@@ -1,6 +1,6 @@
 ---
 title: Nuosu SIL - Versions and Changes
-fontversion: 2.300
+fontversion: 2.301
 ---
 
 ## Announcement list

@@ -1,6 +1,6 @@
 ---
 title: Nuosu SIL - Character Set Support
-fontversion: 2.300
+fontversion: 2.301
 ---
 
 Nuosu SIL includes a complete set of Yi syllables and radicals, along with punctuation and other useful symbols.
