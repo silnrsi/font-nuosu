@@ -47,9 +47,9 @@ This font is licensed under the [SIL Open Font License (OFL)](https://scripts.si
 ### Release Notes for v2.300
 
 - Fixed character U+FF02 FULLWIDTH QUOTATION MARK by changing encoding to U+FF1F FULLWIDTH QUESTION MARK, and then redrawing U+FF02 to be a quotation mark.
-- New punctuation characters U+3018..U+301B and halfwidth forms U+FF61..U+FF65.
+- New punctuation characters U+3018..U+301B, fullwidth form U+FF0D, and halfwidth forms U+FF61..U+FF65.
 
-This font is also available in the <a href="https://packages.sil.org">SIL software repository for Ubuntu</a>. Users can subscribe to this software repository and get current versions and updates automatically.
+This font package is also available in the [SIL software repository for Ubuntu](https://packages.sil.org/). Users can subscribe to this software repository and get current versions and updates automatically.
 
 ### Previous Versions
 

@@ -13,7 +13,9 @@ Install the fonts by decompressing the .zip archive and installing the fonts usi
 
 ## Keyboarding and character set support
 
-These fonts do not include keyboards or other software for entering text. To type the symbols in these fonts use the keyboarding systems provided in your OS or use a separate utility. SIL’s [Keyman](https://keyman.com/) provides keyboards for over 2000 languages and works on all major desktop and mobile platforms. For information on other keyboarding options see the overview at [Keyboard Systems Overview (ScriptSource)](https://scriptsource.org/entry/ytr8g8n6sw).
+The [SIL Yi keyboard](https://keyman.com/keyboards/sil_yi) is also available for the Yi Syllables (U+A000..U+A48F); however, it does not provide keystrokes for the Yi Radicals (U+A490..U+A4CF).
+
+For information on other keyboarding options see the overview at [Keyboard Systems Overview (ScriptSource)](https://scriptsource.org/entry/ytr8g8n6sw).
 
 See [Character set support](charset.md) for details of the Unicode characters supported by these fonts.
 
