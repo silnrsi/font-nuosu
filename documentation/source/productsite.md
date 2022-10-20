@@ -5,7 +5,6 @@ fontversion: 2.301
 
 ![Nuosu SIL - Sample](assets/images/silyisample.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/wp/wp-content/uploads/2019/03/silyisample.png -->
-<!-- <figcaption>Nuosu SIL</figcaption> -->
 
 <h2 id="about">About</h2>
 
@@ -25,11 +24,11 @@ Nuosu SIL includes a complete set of Yi syllables and radicals as defined in the
 
 ### Data Conversion
 
-Compiled and uncompiled TECkit [conversion tables](https://github.com/silnrsi/wsresources/tree/master/langs/i/ii-Yiii/mappings) can be downloaded. **YiIPA** maps data using the Yi syllables for input and outputs IPA. **YiPinyin** maps data using Yi syllables for input and outputs romanized syllables (lower case) with spaces between. These maps can be used with [TECkit](https://software.sil.org/teckit/){.external} and/or [SILConverters](https://software.sil.org/silconverters/).
+Compiled and uncompiled TECkit [conversion tables](https://github.com/silnrsi/wsresources/tree/master/langs/i/ii-Yiii/mappings) can be downloaded. **YiIPA** maps data using the Yi syllables for input and outputs IPA. **YiPinyin** maps data using Yi syllables for input and outputs romanized syllables (lower case) with spaces between. These maps can be used with [TECkit](https://software.sil.org/teckit/) and/or [SILConverters](https://software.sil.org/silconverters/).
 
 ### Keyboarding
 
-The [SIL Yi keyboard](https://keyman.com/keyboards/sil_yi) is also available for the Yi Syllables (U+A000..U+A48F); however, it does not provide keystrokes for the Yi Radicals (U+A490..U+A4CF)."
+The [SIL Yi keyboard](https://keyman.com/keyboards/sil_yi) is also available for the Yi Syllables (U+A000..U+A48F); however, it does not provide keystrokes for the Yi Radicals (U+A490..U+A4CF).
 
 <h2 id="downloads">Downloads</h2>
 
