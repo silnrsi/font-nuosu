@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.nuosusil.2.300" />
-  <vendor name="SIL International" url="https://www.sil.org/" />
+  <uniqueid id="org.sil.fonts.nuosusil.2.801" />
+  <vendor name="SIL International" url="https://software.sil.org/wstech/" />
   <credits>
     <credit
-      name="Peter Constable, Alex Kotlar, Peter Martin, Bobby de Vos"
-      url="https://software.sil.org/nuosu/"
+      name="Peter Constable, Bobby de Vos, Alex Kotlar, Peter Martin, Becca Spalinger"
+      url="hhttps://software.sil.org/wstech/"
       role="SIL font engineers and designers"
+    />
+    <credit
+      name="Eric MacLeod"
+      role="Volunteer designer"
     />
   </credits>
   <description url="https://software.sil.org/nuosu/">
     <text lang="en">
-       Nuosu SIL (originally SIL Yi) was developed in 2000 as a single Unicode font for the standardized Yi script used by a large ethnic group in southwestern China.
+       Nuosu SIL (originally SIL Yi) was developed in 2000 as a single Unicode font for the standardized Yi script used by a large ethnic group in southwestern China, and later expanded to include a Bold weight.
     </text>
   </description>
-  <license url="http://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
+  <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
     <text lang="en">
-      Copyright (c) 1999-2022 SIL International (http://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL".
+      Copyright (c) 1999-2023 SIL International (http://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL".
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
       
@@ -63,7 +67,7 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) 1999-2022 SIL International
+      Copyright (c) 1999-2023 SIL International
     </text>
   </copyright>
   <trademark>

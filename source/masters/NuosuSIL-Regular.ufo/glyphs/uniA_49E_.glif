@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA49E" format="2">
+  <advance width="1600"/>
+  <unicode hex="A49E"/>
+  <outline>
+    <contour>
+      <point x="1031" y="0" type="line"/>
+      <point x="1137" y="0" type="line"/>
+      <point x="1137" y="597" type="line"/>
+      <point x="553" y="345" type="line"/>
+      <point x="553" y="1456" type="line"/>
+      <point x="1137" y="1212" type="line"/>
+      <point x="1137" y="1793" type="line"/>
+      <point x="1031" y="1793" type="line"/>
+      <point x="1031" y="1369" type="line"/>
+      <point x="446" y="1613" type="line"/>
+      <point x="446" y="185" type="line"/>
+      <point x="637" y="267"/>
+      <point x="839" y="355"/>
+      <point x="1031" y="438" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

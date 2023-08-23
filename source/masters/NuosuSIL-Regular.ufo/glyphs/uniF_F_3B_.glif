@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF3B" format="2">
+  <advance width="1603"/>
+  <unicode hex="FF3B"/>
+  <outline>
+    <contour>
+      <point x="997" y="-210" type="line"/>
+      <point x="1544" y="-210" type="line"/>
+      <point x="1544" y="-115" type="line"/>
+      <point x="1183" y="-115" type="line"/>
+      <point x="1183" y="1911" type="line"/>
+      <point x="1544" y="1911" type="line"/>
+      <point x="1544" y="2006" type="line"/>
+      <point x="997" y="2006" type="line"/>
+    </contour>
+  </outline>
+</glyph>

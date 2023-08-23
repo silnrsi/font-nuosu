@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="637"/>
+  <unicode hex="00A8"/>
+  <anchor x="318" y="1430" name="U"/>
+  <outline>
+    <component base="CombDiaer" xOffset="850"/>
+  </outline>
+</glyph>

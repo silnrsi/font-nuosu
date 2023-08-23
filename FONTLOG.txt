@@ -30,6 +30,9 @@ incorporated into the system to mark one of the tones.
 
 (This should list both major and minor changes, most recent first.)
 
+### 23 Aug 2023 Version 2.801 (alpha)
+- Adding infrastructure for bold
+
 ### 14 Sep 2022 Version 2.300
 - Fixed character U+FF02 by changing encoding to U+FF1F, and then redrawing U+FF02
 - New punctuation characters U+3018..U+301B, U+FF0D, U+FF61..U+FF65

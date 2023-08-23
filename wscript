@@ -7,12 +7,12 @@ DOCDIR = ['documentation', 'web']
 # set the font name, version, licensing and description
 APPNAME = 'NuosuSIL'
 FAMILY = APPNAME
-getufoinfo('source/NuosuSIL-Regular.ufo')
+getufoinfo('source/masters/NuosuSIL-Regular.ufo')
 
 # Set up the FTML tests
 ftmlTest('tools/ftml-smith.xsl')
 
-designspace('source/' + FAMILY + '.designspace',
+designspace('source/' + FAMILY + 'R.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
             version = VERSION,
             woff = woff('web/${DS:FILENAME_BASE}',

@@ -1,6 +1,6 @@
 #!/bin/sh
 
 echo "-----Updating UFOs from Glyphs file..."
-psfglyphs2ufo --nofea source/NuosuSIL.glyphs source
+psfglyphs2ufo --nofea source/masters/NuosuSIL.glyphs source/masters
 
 ./preflight

@@ -1,4 +1,4 @@
 #!/bin/sh
 
-psffixffglifs -p checkfix=fix source/NuosuSIL-Regular.ufo
+psffixffglifs -p checkfix=fix source/masters/NuosuSIL-Regular.ufo
 ./preflight
