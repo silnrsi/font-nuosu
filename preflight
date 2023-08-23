@@ -1,12 +1,16 @@
 #!/bin/sh
 
-echo "-----Normalizing UFO..."
-psfnormalize -p checkfix=fix source/masters/NuosuSIL-Regular.ufo
-
 echo "-----Updating glyph order..."
 psfsetglyphorder -i source/glyph_data.csv source/masters/NuosuSIL-Regular.ufo
 
-echo "-----Create WOFF metadata file..."
+echo "-----Normalizing UFOs..."
+psfnormalize -p checkfix=fix source/masters/NuosuSIL-Regular.ufo
+psfnormalize -p checkfix=fix source/masters/NuosuSIL-Bold.ufo
+
+echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
+psfsyncmasters source/NuosuSIL.designspace
+
+echo "-----Updating WOFF metadata file..."
 psfmakewoffmetadata -n "nuosusil" -i "org.sil.fonts" -o source/NuosuSIL-WOFF-metadata.xml source/masters/NuosuSIL-Regular.ufo
 
 echo "-----Preflight completed!"

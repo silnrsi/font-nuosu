@@ -2,19 +2,34 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+  <array>
+    <dict>
+      <key>class</key>
+      <string>KernFeatureWriter</string>
+    </dict>
+    <dict>
+      <key>class</key>
+      <string>ContextualMarkFeatureWriter</string>
+      <key>module</key>
+      <string>glyphsLib.featureWriters.markFeatureWriter</string>
+    </dict>
+    <dict>
+      <key>class</key>
+      <string>GdefFeatureWriter</string>
+    </dict>
+    <dict>
+      <key>class</key>
+      <string>CursFeatureWriter</string>
+    </dict>
+  </array>
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict>
     <key>com.schriftgestaltung.Glyphs.groupsNotInFeature</key>
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3134</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>/uni3014/uni3015/uni3018/uni3019/uni300A/uni3016/uni301A/uni301B 
-/uni3002/uniFF61/uni300C/uni300D/uniFF62/uniFF63/uni3001/uniFF64/uniFF65/uni30FB 
-/uni3003/uniFF02/uniFF1F</string>
-  </array>
+  <string>3213</string>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
@@ -34,11 +49,11 @@
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
   <string/>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-  <integer>400</integer>
+  <integer>700</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
   <integer>100</integer>
   <key>com.schriftgestaltung.fontMasterOrder</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>com.schriftgestaltung.keyboardIncrement</key>
   <integer>1</integer>
   <key>com.schriftgestaltung.weight</key>
