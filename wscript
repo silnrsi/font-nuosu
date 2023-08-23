@@ -12,7 +12,7 @@ getufoinfo('source/masters/NuosuSIL-Regular.ufo')
 # Set up the FTML tests
 ftmlTest('tools/ftml-smith.xsl')
 
-designspace('source/' + FAMILY + 'R.designspace',
+designspace('source/' + FAMILY + 'RB.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
             version = VERSION,
             woff = woff('web/${DS:FILENAME_BASE}',
