@@ -66,31 +66,6 @@
   <integer>100</integer>
   <key>public.glyphOrder</key>
   <array>
-    <string>uni3000</string>
-    <string>uni3001</string>
-    <string>uni3002</string>
-    <string>uni3003</string>
-    <string>uni3008</string>
-    <string>uni3009</string>
-    <string>uni300A</string>
-    <string>uni300B</string>
-    <string>uni300C</string>
-    <string>uni300D</string>
-    <string>uni300E</string>
-    <string>uni300F</string>
-    <string>uni3010</string>
-    <string>uni3011</string>
-    <string>uni3012</string>
-    <string>uni3013</string>
-    <string>uni3014</string>
-    <string>uni3015</string>
-    <string>uni3016</string>
-    <string>uni3017</string>
-    <string>uni3018</string>
-    <string>uni3019</string>
-    <string>uni301A</string>
-    <string>uni301B</string>
-    <string>uni30FB</string>
     <string>uniA000</string>
     <string>uniA002</string>
     <string>uniA003</string>
@@ -966,6 +941,31 @@
     <string>uniA4C4</string>
     <string>uniA4C5</string>
     <string>uniA4C6</string>
+    <string>uni3000</string>
+    <string>uni3001</string>
+    <string>uni3002</string>
+    <string>uni3003</string>
+    <string>uni3008</string>
+    <string>uni3009</string>
+    <string>uni300A</string>
+    <string>uni300B</string>
+    <string>uni300C</string>
+    <string>uni300D</string>
+    <string>uni300E</string>
+    <string>uni300F</string>
+    <string>uni3010</string>
+    <string>uni3011</string>
+    <string>uni3012</string>
+    <string>uni3013</string>
+    <string>uni3014</string>
+    <string>uni3015</string>
+    <string>uni3016</string>
+    <string>uni3017</string>
+    <string>uni3018</string>
+    <string>uni3019</string>
+    <string>uni301A</string>
+    <string>uni301B</string>
+    <string>uni30FB</string>
     <string>uniA001</string>
     <string>uniA005</string>
     <string>uniA009</string>
