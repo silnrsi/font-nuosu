@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "-----Updating glyph order..."
-psfsetglyphorder -i source/glyph_data.csv source/masters/NuosuSIL-Regular.ufo
+psfsetglyphorder --header sort_design -i source/glyph_data.csv source/masters/NuosuSIL-Regular.ufo
 
 echo "-----Normalizing UFOs..."
 psfnormalize -p checkfix=fix source/masters/NuosuSIL-Regular.ufo
