@@ -4,3 +4,5 @@ echo "-----Updating UFOs from Glyphs file..."
 psfglyphs2ufo --nofea source/masters/NuosuSIL.glyphs source/masters
 
 ./preflight
+
+echo "-----Preflightg from Glyphs file completed!"
