@@ -2,6 +2,7 @@
 <glyph name="uniA320" format="2">
   <advance width="1600"/>
   <unicode hex="A320"/>
+  <anchor x="800" y="1900" name="top"/>
   <outline>
     <contour>
       <point x="777" y="-33" type="line"/>

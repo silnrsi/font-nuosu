@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_xtone" format="2">
   <advance width="1600"/>
-  <anchor x="800" y="2000" name="_U"/>
+  <anchor x="800" y="1900" name="_top"/>
   <outline>
     <contour>
       <point x="575" y="1945" type="line"/>
