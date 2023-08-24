@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1800</integer>
   <key>copyright</key>
-  <string>Copyright (c) 1999-2023 SIL International</string>
+  <string>Copyright (c) 1999-2023 SIL International, Copyright (c) 2023 Eric MacLeod (bold)</string>
   <key>descender</key>
   <integer>-500</integer>
   <key>familyName</key>
@@ -27,7 +27,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 1999-2023 SIL International (http://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL".
+  <string>Copyright (c) 1999-2023 SIL International (http://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL". Copyright (c) 2023 Eric MacLeod (bold).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
@@ -217,7 +217,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
         <key>name</key>
         <string>Eric MacLeod</string>
         <key>role</key>
-        <string>Volunteer designer</string>
+        <string>Volunteer designer (bold)</string>
       </dict>
     </array>
   </dict>
