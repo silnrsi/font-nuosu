@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Nuosu SIL</string>
   <key>openTypeHeadCreated</key>
-  <string>2023/08/24 15:34:26</string>
+  <string>2023/09/19 13:34:29</string>
   <key>openTypeHheaAscender</key>
   <integer>2200</integer>
   <key>openTypeHheaDescender</key>
@@ -179,6 +179,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>0</integer>
     <integer>1222</integer>
     <integer>1224</integer>
+    <integer>1800</integer>
+    <integer>1820</integer>
   </array>
   <key>postscriptFontName</key>
   <string>NuosuSIL-Regular</string>
