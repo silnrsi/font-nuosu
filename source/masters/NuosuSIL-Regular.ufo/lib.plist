@@ -30,10 +30,6 @@
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
   <string>3219</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>/uniA00A/uniA015/uniA068/uniA07D/uniA0B8/uniA0BF/uniA0C5/uniA0CD/uniA154/uniA16A/uniA18F/uniA1C9/uniA1CA/uniA1FA/uniA258/uniA312/uniA33A/uniA382/uniA3B5/uniA3F0/uniA40E/uniA425/uniA42F/uniA44C/uniA458/uniA473</string>
-  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
