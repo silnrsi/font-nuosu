@@ -1,4 +1,4 @@
-# Nuosu SIL [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Fonts_Nuosu/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_Nuosu&guest=1)
+# Nuosu SIL [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Fonts_Nuosu/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_Nuosu&guest=1)
 
 This project provides a free and open font for the Yi script.
 This project uses a UFO-based design and production workflow, with all sources in open formats and a completely open-source build toolkit.

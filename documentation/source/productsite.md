@@ -34,7 +34,7 @@ The [SIL Yi keyboard](https://keyman.com/keyboards/sil_yi) is also available for
 
 ### License
 
-This font is licensed under the [SIL Open Font License (OFL)](https://scripts.sil.org/OFL)
+This font is licensed under the [SIL Open Font License (OFL)](https://openfontlicense.org)
 
 ![SIL Open Font License (OFL)](assets/images/OFL_logo_rect_color.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/wp/wp-content/uploads/2019/03/OFL_logo_rect_color.png -->
