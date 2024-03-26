@@ -4,34 +4,46 @@
   <unicode hex="A3E3"/>
   <outline>
     <contour>
-      <point x="210" y="0" type="line"/>
-      <point x="1198" y="0" type="line"/>
-      <point x="1198" y="104" type="line"/>
-      <point x="495" y="104" type="line"/>
-      <point x="495" y="980" type="line"/>
-      <point x="1198" y="731" type="line"/>
-      <point x="1198" y="1689" type="line"/>
-      <point x="1374" y="1689" type="line"/>
-      <point x="1374" y="1793" type="line"/>
-      <point x="386" y="1793" type="line"/>
-      <point x="386" y="1689" type="line"/>
-      <point x="1091" y="1689" type="line"/>
-      <point x="1091" y="881" type="line"/>
-      <point x="388" y="1129" type="line"/>
-      <point x="388" y="104" type="line"/>
-      <point x="210" y="104" type="line"/>
+      <point x="374" y="1613" type="line"/>
+      <point x="1422" y="1613" type="line"/>
+      <point x="1422" y="1800" type="line"/>
+      <point x="374" y="1800" type="line"/>
     </contour>
     <contour>
-      <point x="740" y="251" type="line"/>
-      <point x="847" y="251" type="line"/>
-      <point x="847" y="566" type="line"/>
-      <point x="740" y="566" type="line"/>
+      <point x="718" y="256" type="line"/>
+      <point x="885" y="256" type="line"/>
+      <point x="885" y="615" type="line"/>
+      <point x="718" y="615" type="line"/>
     </contour>
     <contour>
-      <point x="740" y="1224" type="line"/>
-      <point x="847" y="1224" type="line"/>
-      <point x="847" y="1539" type="line"/>
-      <point x="740" y="1539" type="line"/>
+      <point x="718" y="1185" type="line"/>
+      <point x="885" y="1185" type="line"/>
+      <point x="885" y="1544" type="line"/>
+      <point x="718" y="1544" type="line"/>
+    </contour>
+    <contour>
+      <point x="1226" y="187" type="line"/>
+      <point x="178" y="187" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="1226" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1245" y="1660" type="line"/>
+      <point x="1043" y="1660" type="line"/>
+      <point x="1043" y="859" type="line"/>
+      <point x="1149" y="919" type="line"/>
+      <point x="354" y="1171" type="line"/>
+      <point x="354" y="130" type="line"/>
+      <point x="556" y="130" type="line"/>
+      <point x="556" y="987" type="line"/>
+      <point x="459" y="936" type="line"/>
+      <point x="1245" y="686" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>
