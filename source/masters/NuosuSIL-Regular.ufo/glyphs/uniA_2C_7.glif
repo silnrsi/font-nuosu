@@ -4,28 +4,41 @@
   <unicode hex="A2C7"/>
   <outline>
     <contour>
+      <point x="980" y="303" type="line"/>
+      <point x="980" y="1694" type="line"/>
+      <point x="940" y="1670" type="line"/>
+      <point x="1277" y="1486" type="line"/>
+      <point x="1331" y="1576" type="line"/>
+      <point x="873" y="1827" type="line"/>
+      <point x="873" y="420" type="line"/>
+      <point x="915" y="448" type="line"/>
+      <point x="320" y="719" type="line"/>
       <point x="320" y="0" type="line"/>
       <point x="427" y="0" type="line"/>
-      <point x="427" y="555" type="line"/>
-      <point x="980" y="303" type="line"/>
-      <point x="980" y="1642" type="line"/>
-      <point x="1279" y="1480" type="line"/>
-      <point x="1331" y="1569" type="line"/>
-      <point x="874" y="1820" type="line"/>
-      <point x="874" y="1434" type="line"/>
+      <point x="427" y="600" type="line"/>
+      <point x="386" y="574" type="line"/>
+    </contour>
+    <contour>
+      <point x="891" y="844" type="curve"/>
+      <point x="890" y="949" type="line"/>
+      <point x="499" y="960"/>
+      <point x="338" y="1151"/>
+      <point x="338" y="1800" type="curve"/>
+      <point x="231" y="1800" type="line"/>
+      <point x="231" y="1120"/>
+      <point x="415" y="857"/>
+    </contour>
+    <contour>
+      <point x="890" y="1329" type="line"/>
+      <point x="890" y="1434" type="line"/>
       <point x="629" y="1434" type="line"/>
-      <point x="629" y="1330" type="line"/>
-      <point x="874" y="1330" type="line"/>
-      <point x="874" y="949" type="line"/>
-      <point x="495" y="964"/>
-      <point x="338" y="1157"/>
-      <point x="338" y="1793" type="curve"/>
-      <point x="231" y="1793" type="line"/>
-      <point x="231" y="1126"/>
-      <point x="411" y="863"/>
-      <point x="874" y="845" type="curve"/>
-      <point x="874" y="465" type="line"/>
-      <point x="320" y="716" type="line"/>
+      <point x="629" y="1329" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>
