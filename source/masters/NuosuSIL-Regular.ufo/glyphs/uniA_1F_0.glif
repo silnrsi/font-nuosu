@@ -5,20 +5,28 @@
   <anchor x="800" y="1900" name="top"/>
   <outline>
     <contour>
-      <point x="845" y="-25" type="line"/>
-      <point x="845" y="1641" type="line"/>
-      <point x="1279" y="1400" type="line"/>
-      <point x="1331" y="1489" type="line"/>
-      <point x="739" y="1818" type="line"/>
-      <point x="739" y="155" type="line"/>
-      <point x="305" y="396" type="line"/>
-      <point x="253" y="307" type="line"/>
-    </contour>
-    <contour>
       <point x="278" y="905" type="line"/>
       <point x="385" y="905" type="line"/>
       <point x="385" y="1655" type="line"/>
       <point x="278" y="1655" type="line"/>
     </contour>
+    <contour>
+      <point x="739" y="1818" type="line"/>
+      <point x="739" y="110" type="line"/>
+      <point x="779" y="133" type="line"/>
+      <point x="305" y="398" type="line"/>
+      <point x="253" y="307" type="line"/>
+      <point x="846" y="-25" type="line"/>
+      <point x="846" y="1686" type="line"/>
+      <point x="807" y="1660" type="line"/>
+      <point x="1280" y="1397" type="line"/>
+      <point x="1331" y="1489" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>
