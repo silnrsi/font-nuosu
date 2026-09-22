@@ -29,13 +29,13 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3337</string>
+  <string>3436</string>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
-  <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
-  <string>SIL Global: Nuosu SIL Bold: 2025</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.openTypeNameVersion</key>
+  <string>Version 2.801</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
@@ -48,6 +48,8 @@
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
   <string>Bold</string>
+  <key>com.schriftgestaltung.customParameter.GSFontMaster.openTypeNameVersion</key>
+  <string>Version 2.801</string>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
   <integer>700</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>

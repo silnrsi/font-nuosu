@@ -4,20 +4,28 @@
   <unicode hex="A225"/>
   <outline>
     <contour>
-      <point x="353" y="0" type="line"/>
-      <point x="459" y="0" type="line"/>
-      <point x="459" y="554" type="line"/>
-      <point x="1231" y="206" type="line"/>
-      <point x="1231" y="1793" type="line"/>
-      <point x="1124" y="1793" type="line"/>
-      <point x="1124" y="369" type="line"/>
-      <point x="353" y="716" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="485" y="555" type="line"/>
+      <point x="368" y="512" type="line"/>
+      <point x="1289" y="189" type="line"/>
+      <point x="1289" y="1800" type="line"/>
+      <point x="1082" y="1800" type="line"/>
+      <point x="1082" y="378" type="line"/>
+      <point x="1227" y="421" type="line"/>
+      <point x="278" y="754" type="line"/>
     </contour>
     <contour>
-      <point x="414" y="1094" type="line"/>
-      <point x="521" y="1094" type="line"/>
-      <point x="521" y="1670" type="line"/>
-      <point x="414" y="1670" type="line"/>
+      <point x="342" y="1067" type="line"/>
+      <point x="549" y="1067" type="line"/>
+      <point x="549" y="1699" type="line"/>
+      <point x="342" y="1699" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>
