@@ -5,12 +5,19 @@
   <guideline y="1873"/>
   <outline>
     <contour>
-      <point x="1322" y="583" type="line"/>
-      <point x="1322" y="1793" type="line"/>
-      <point x="1215" y="1793" type="line"/>
-      <point x="1215" y="855" type="line"/>
-      <point x="345" y="1806" type="line"/>
-      <point x="266" y="1738" type="line"/>
+      <point x="338" y="1806" type="line"/>
+      <point x="259" y="1739" type="line"/>
+      <point x="1313" y="582" type="line"/>
+      <point x="1313" y="1793" type="line"/>
+      <point x="1207" y="1793" type="line"/>
+      <point x="1207" y="809" type="line"/>
+      <point x="1237" y="820" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

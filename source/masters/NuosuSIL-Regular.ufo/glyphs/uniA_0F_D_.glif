@@ -50,16 +50,16 @@
       <point x="388" y="234" type="line"/>
     </contour>
     <contour>
-      <point x="1212" y="760" type="line"/>
-      <point x="1319" y="760" type="line"/>
-      <point x="1319" y="1032" type="line"/>
-      <point x="1212" y="1032" type="line"/>
+      <point x="1212" y="755" type="line"/>
+      <point x="1319" y="755" type="line"/>
+      <point x="1319" y="1027" type="line"/>
+      <point x="1212" y="1027" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

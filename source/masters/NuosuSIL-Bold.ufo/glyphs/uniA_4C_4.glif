@@ -4,14 +4,22 @@
   <unicode hex="A4C4"/>
   <outline>
     <contour>
-      <point x="739" y="0" type="line"/>
-      <point x="845" y="0" type="line"/>
-      <point x="845" y="1689" type="line"/>
-      <point x="1305" y="1689" type="line"/>
-      <point x="1305" y="1793" type="line"/>
-      <point x="278" y="1793" type="line"/>
-      <point x="278" y="1689" type="line"/>
-      <point x="739" y="1689" type="line"/>
+      <point x="259" y="1601" type="line"/>
+      <point x="1340" y="1601" type="line"/>
+      <point x="1340" y="1800" type="line"/>
+      <point x="259" y="1800" type="line"/>
+    </contour>
+    <contour>
+      <point x="903" y="1705" type="line"/>
+      <point x="697" y="1705" type="line"/>
+      <point x="697" y="0" type="line"/>
+      <point x="903" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

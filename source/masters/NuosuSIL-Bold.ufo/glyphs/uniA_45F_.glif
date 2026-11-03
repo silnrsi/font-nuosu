@@ -5,30 +5,34 @@
   <anchor x="800" y="1900" name="top"/>
   <outline>
     <contour>
-      <point x="221" y="-21" type="line"/>
-      <point x="337" y="238"/>
-      <point x="460" y="502"/>
-      <point x="576" y="762" type="curve"/>
-      <point x="936" y="-21" type="line"/>
-      <point x="1034" y="21" type="line"/>
-      <point x="634" y="891" type="line"/>
-      <point x="1034" y="1773" type="line"/>
-      <point x="937" y="1814" type="line"/>
-      <point x="574" y="1015" type="line"/>
-      <point x="207" y="1814" type="line"/>
-      <point x="111" y="1773" type="line"/>
-      <point x="517" y="889" type="line"/>
-      <point x="124" y="21" type="line"/>
+      <point x="264" y="-31" type="line"/>
+      <point x="1109" y="1746" type="line"/>
+      <point x="928" y="1829" type="line"/>
+      <point x="84" y="53" type="line"/>
     </contour>
     <contour>
-      <point x="1125" y="-9" type="line"/>
-      <point x="1229" y="9" type="line"/>
-      <point x="1062" y="930" type="line"/>
-      <point x="1305" y="796" type="line"/>
-      <point x="1305" y="1793" type="line"/>
-      <point x="1198" y="1793" type="line"/>
-      <point x="1198" y="973" type="line"/>
-      <point x="916" y="1131" type="line"/>
+      <point x="916" y="-31" type="line"/>
+      <point x="1096" y="53" type="line"/>
+      <point x="252" y="1830" type="line"/>
+      <point x="71" y="1747" type="line"/>
+    </contour>
+    <contour>
+      <point x="1209" y="-25" type="line"/>
+      <point x="1395" y="10" type="line"/>
+      <point x="1173" y="916" type="line"/>
+      <point x="1120" y="873" type="line"/>
+      <point x="1445" y="715" type="line"/>
+      <point x="1445" y="1793" type="line"/>
+      <point x="1252" y="1793" type="line"/>
+      <point x="1252" y="928" type="line"/>
+      <point x="1314" y="972" type="line"/>
+      <point x="916" y="1169" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>
