@@ -29,7 +29,12 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3436</string>
+  <string>3532</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+  <array>
+    <string>/uniA044</string>
+    <string>/uniA123</string>
+  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
@@ -47,7 +52,7 @@
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
-  <string>Bold</string>
+  <string/>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.openTypeNameVersion</key>
   <string>Version 2.801</string>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>

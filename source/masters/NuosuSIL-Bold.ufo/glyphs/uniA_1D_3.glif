@@ -5,18 +5,6 @@
   <anchor x="800" y="1900" name="top"/>
   <outline>
     <contour>
-      <point x="407" y="-47" type="line"/>
-      <point x="1388" y="1764" type="line"/>
-      <point x="1211" y="1857" type="line"/>
-      <point x="231" y="47" type="line"/>
-    </contour>
-    <contour>
-      <point x="1193" y="-47" type="line"/>
-      <point x="1369" y="47" type="line"/>
-      <point x="389" y="1857" type="line"/>
-      <point x="212" y="1764" type="line"/>
-    </contour>
-    <contour>
       <point x="713" y="0" type="line"/>
       <point x="889" y="0" type="line"/>
       <point x="889" y="390" type="line"/>
@@ -28,11 +16,23 @@
       <point x="889" y="1793" type="line"/>
       <point x="713" y="1793" type="line"/>
     </contour>
+    <contour>
+      <point x="407" y="-47" type="line"/>
+      <point x="1388" y="1764" type="line"/>
+      <point x="1211" y="1857" type="line"/>
+      <point x="231" y="47" type="line"/>
+    </contour>
+    <contour>
+      <point x="1193" y="-47" type="line"/>
+      <point x="1369" y="47" type="line"/>
+      <point x="389" y="1857" type="line"/>
+      <point x="212" y="1764" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>
