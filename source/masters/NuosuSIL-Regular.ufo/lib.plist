@@ -29,11 +29,10 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3532</string>
+  <string>3436</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/uniA044</string>
-    <string>/uniA123</string>
+    <string>/uniA044/uniA049/uniA123/uniA199/uniA1F8/uniA34C/uniA404/uniA431/uniA45C</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
