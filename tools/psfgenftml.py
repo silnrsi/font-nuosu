@@ -1,14 +1,14 @@
 #!/usr/bin/python3
 __doc__ = '''generate ftml tests from glyph_data.csv and UFO'''
 __url__ = 'https://github.com/silnrsi/pysilfont'
-__copyright__ = 'Copyright (c) 2018-2022 SIL International  (https://www.sil.org)'
+__copyright__ = 'Copyright (c) 2018-2026 SIL International  (https://www.sil.org)'
 __license__ = 'Released under the MIT License (https://opensource.org/licenses/MIT)'
 __author__ = 'Bob Hallissy'
 
 import re
 from silfont.core import execute
 import silfont.ftml_builder as FB
-from palaso.unicode.ucd import get_ucd
+from ucdinfo import get_ucd
 
 argspec = [
     ('ifont', {'help': 'Input UFO'}, {'type': 'infont'}),
