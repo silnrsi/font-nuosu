@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>400</fontscale>
+    <fontsrc label="R2.3">url(../references/NuosuSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="R3">url(../results/NuosuSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="B3">url(../results/NuosuSIL-Bold.ttf)</fontsrc>
+    <fontsrc label="noto">url(../references/NotoSansYi-Regular.ttf)</fontsrc>
+    <title>Yi composite glyphs</title>
+  </head>
+  <testgroup label="Yi composite glyphs">
+    <test label='U+A001'>
+      <string>\u00A001</string>
+    </test>
+    <test label='U+A005'>
+      <string>\u00A005</string>
+    </test>
+    <test label='U+A009'>
+      <string>\u00A009</string>
+    </test>
+    <test label='U+A00C'>
+      <string>\u00A00C</string>
+    </test>
+    <test label='U+A010'>
+      <string>\u00A010</string>
+    </test>
+    <test label='U+A013'>
+      <string>\u00A013</string>
+    </test>
+    <test label='U+A017'>
+      <string>\u00A017</string>
+    </test>
+    <test label='U+A01B'>
+      <string>\u00A01B</string>
+    </test>
+    <test label='U+A01F'>
+      <string>\u00A01F</string>
+    </test>
+    <test label='U+A022'>
+      <string>\u00A022</string>
+    </test>
+    <test label='U+A026'>
+      <string>\u00A026</string>
+    </test>
+    <test label='U+A029'>
+      <string>\u00A029</string>
+    </test>
+    <test label='U+A02D'>
+      <string>\u00A02D</string>
+    </test>
+    <test label='U+A030'>
+      <string>\u00A030</string>
+    </test>
+    <test label='U+A033'>
+      <string>\u00A033</string>
+    </test>
+    <test label='U+A036'>
+      <string>\u00A036</string>
+    </test>
+    <test label='U+A039'>
+      <string>\u00A039</string>
+    </test>
+    <test label='U+A03C'>
+      <string>\u00A03C</string>
+    </test>
+    <test label='U+A040'>
+      <string>\u00A040</string>
+    </test>
+    <test label='U+A043'>
+      <string>\u00A043</string>
+    </test>
+    <test label='U+A047'>
+      <string>\u00A047</string>
+    </test>
+    <test label='U+A04B'>
+      <string>\u00A04B</string>
+    </test>
+    <test label='U+A04E'>
+      <string>\u00A04E</string>
+    </test>
+    <test label='U+A051'>
+      <string>\u00A051</string>
+    </test>
+    <test label='U+A054'>
+      <string>\u00A054</string>
+    </test>
+    <test label='U+A057'>
+      <string>\u00A057</string>
+    </test>
+    <test label='U+A05B'>
+      <string>\u00A05B</string>
+    </test>
+    <test label='U+A05F'>
+      <string>\u00A05F</string>
+    </test>
+    <test label='U+A062'>
+      <string>\u00A062</string>
+    </test>
+    <test label='U+A066'>
+      <string>\u00A066</string>
+    </test>
+    <test label='U+A069'>
+      <string>\u00A069</string>
+    </test>
+    <test label='U+A06D'>
+      <string>\u00A06D</string>
+    </test>
+    <test label='U+A070'>
+      <string>\u00A070</string>
+    </test>
+    <test label='U+A073'>
+      <string>\u00A073</string>
+    </test>
+    <test label='U+A077'>
+      <string>\u00A077</string>
+    </test>
+    <test label='U+A07A'>
+      <string>\u00A07A</string>
+    </test>
+    <test label='U+A07E'>
+      <string>\u00A07E</string>
+    </test>
+    <test label='U+A082'>
+      <string>\u00A082</string>
+    </test>
+    <test label='U+A086'>
+      <string>\u00A086</string>
+    </test>
+    <test label='U+A089'>
+      <string>\u00A089</string>
+    </test>
+    <test label='U+A08C'>
+      <string>\u00A08C</string>
+    </test>
+    <test label='U+A08F'>
+      <string>\u00A08F</string>
+    </test>
+    <test label='U+A092'>
+      <string>\u00A092</string>
+    </test>
+    <test label='U+A095'>
+      <string>\u00A095</string>
+    </test>
+    <test label='U+A099'>
+      <string>\u00A099</string>
+    </test>
+    <test label='U+A09C'>
+      <string>\u00A09C</string>
+    </test>
+    <test label='U+A0A0'>
+      <string>\u00A0A0</string>
+    </test>
+    <test label='U+A0A4'>
+      <string>\u00A0A4</string>
+    </test>
+    <test label='U+A0A7'>
+      <string>\u00A0A7</string>
+    </test>
+    <test label='U+A0A9'>
+      <string>\u00A0A9</string>
+    </test>
+    <test label='U+A0AC'>
+      <string>\u00A0AC</string>
+    </test>
+    <test label='U+A0AF'>
+      <string>\u00A0AF</string>
+    </test>
+    <test label='U+A0B2'>
+      <string>\u00A0B2</string>
+    </test>
+    <test label='U+A0B6'>
+      <string>\u00A0B6</string>
+    </test>
+    <test label='U+A0BA'>
+      <string>\u00A0BA</string>
+    </test>
+    <test label='U+A0BE'>
+      <string>\u00A0BE</string>
+    </test>
+    <test label='U+A0C1'>
+      <string>\u00A0C1</string>
+    </test>
+    <test label='U+A0C4'>
+      <string>\u00A0C4</string>
+    </test>
+    <test label='U+A0C7'>
+      <string>\u00A0C7</string>
+    </test>
+    <test label='U+A0CA'>
+      <string>\u00A0CA</string>
+    </test>
+    <test label='U+A0CE'>
+      <string>\u00A0CE</string>
+    </test>
+    <test label='U+A0D2'>
+      <string>\u00A0D2</string>
+    </test>
+    <test label='U+A0D5'>
+      <string>\u00A0D5</string>
+    </test>
+    <test label='U+A0D9'>
+      <string>\u00A0D9</string>
+    </test>
+    <test label='U+A0DC'>
+      <string>\u00A0DC</string>
+    </test>
+    <test label='U+A0DF'>
+      <string>\u00A0DF</string>
+    </test>
+    <test label='U+A0E3'>
+      <string>\u00A0E3</string>
+    </test>
+    <test label='U+A0E7'>
+      <string>\u00A0E7</string>
+    </test>
+    <test label='U+A0EB'>
+      <string>\u00A0EB</string>
+    </test>
+    <test label='U+A0EF'>
+      <string>\u00A0EF</string>
+    </test>
+    <test label='U+A0F2'>
+      <string>\u00A0F2</string>
+    </test>
+    <test label='U+A0F5'>
+      <string>\u00A0F5</string>
+    </test>
+    <test label='U+A0F8'>
+      <string>\u00A0F8</string>
+    </test>
+    <test label='U+A0FB'>
+      <string>\u00A0FB</string>
+    </test>
+    <test label='U+A0FE'>
+      <string>\u00A0FE</string>
+    </test>
+    <test label='U+A101'>
+      <string>\u00A101</string>
+    </test>
+    <test label='U+A104'>
+      <string>\u00A104</string>
+    </test>
+    <test label='U+A108'>
+      <string>\u00A108</string>
+    </test>
+    <test label='U+A10B'>
+      <string>\u00A10B</string>
+    </test>
+    <test label='U+A10E'>
+      <string>\u00A10E</string>
+    </test>
+    <test label='U+A111'>
+      <string>\u00A111</string>
+    </test>
+    <test label='U+A115'>
+      <string>\u00A115</string>
+    </test>
+    <test label='U+A118'>
+      <string>\u00A118</string>
+    </test>
+    <test label='U+A11B'>
+      <string>\u00A11B</string>
+    </test>
+    <test label='U+A11E'>
+      <string>\u00A11E</string>
+    </test>
+    <test label='U+A122'>
+      <string>\u00A122</string>
+    </test>
+    <test label='U+A126'>
+      <string>\u00A126</string>
+    </test>
+    <test label='U+A12A'>
+      <string>\u00A12A</string>
+    </test>
+    <test label='U+A12D'>
+      <string>\u00A12D</string>
+    </test>
+    <test label='U+A131'>
+      <string>\u00A131</string>
+    </test>
+    <test label='U+A134'>
+      <string>\u00A134</string>
+    </test>
+    <test label='U+A137'>
+      <string>\u00A137</string>
+    </test>
+    <test label='U+A13A'>
+      <string>\u00A13A</string>
+    </test>
+    <test label='U+A13E'>
+      <string>\u00A13E</string>
+    </test>
+    <test label='U+A141'>
+      <string>\u00A141</string>
+    </test>
+    <test label='U+A145'>
+      <string>\u00A145</string>
+    </test>
+    <test label='U+A148'>
+      <string>\u00A148</string>
+    </test>
+    <test label='U+A14C'>
+      <string>\u00A14C</string>
+    </test>
+    <test label='U+A14F'>
+      <string>\u00A14F</string>
+    </test>
+    <test label='U+A152'>
+      <string>\u00A152</string>
+    </test>
+    <test label='U+A155'>
+      <string>\u00A155</string>
+    </test>
+    <test label='U+A158'>
+      <string>\u00A158</string>
+    </test>
+    <test label='U+A15C'>
+      <string>\u00A15C</string>
+    </test>
+    <test label='U+A15F'>
+      <string>\u00A15F</string>
+    </test>
+    <test label='U+A163'>
+      <string>\u00A163</string>
+    </test>
+    <test label='U+A166'>
+      <string>\u00A166</string>
+    </test>
+    <test label='U+A169'>
+      <string>\u00A169</string>
+    </test>
+    <test label='U+A16D'>
+      <string>\u00A16D</string>
+    </test>
+    <test label='U+A171'>
+      <string>\u00A171</string>
+    </test>
+    <test label='U+A174'>
+      <string>\u00A174</string>
+    </test>
+    <test label='U+A177'>
+      <string>\u00A177</string>
+    </test>
+    <test label='U+A179'>
+      <string>\u00A179</string>
+    </test>
+    <test label='U+A17E'>
+      <string>\u00A17E</string>
+    </test>
+    <test label='U+A181'>
+      <string>\u00A181</string>
+    </test>
+    <test label='U+A184'>
+      <string>\u00A184</string>
+    </test>
+    <test label='U+A187'>
+      <string>\u00A187</string>
+    </test>
+    <test label='U+A18B'>
+      <string>\u00A18B</string>
+    </test>
+    <test label='U+A18E'>
+      <string>\u00A18E</string>
+    </test>
+    <test label='U+A192'>
+      <string>\u00A192</string>
+    </test>
+    <test label='U+A195'>
+      <string>\u00A195</string>
+    </test>
+    <test label='U+A198'>
+      <string>\u00A198</string>
+    </test>
+    <test label='U+A19B'>
+      <string>\u00A19B</string>
+    </test>
+    <test label='U+A19F'>
+      <string>\u00A19F</string>
+    </test>
+    <test label='U+A1A2'>
+      <string>\u00A1A2</string>
+    </test>
+    <test label='U+A1A5'>
+      <string>\u00A1A5</string>
+    </test>
+    <test label='U+A1A8'>
+      <string>\u00A1A8</string>
+    </test>
+    <test label='U+A1AC'>
+      <string>\u00A1AC</string>
+    </test>
+    <test label='U+A1AF'>
+      <string>\u00A1AF</string>
+    </test>
+    <test label='U+A1B2'>
+      <string>\u00A1B2</string>
+    </test>
+    <test label='U+A1B5'>
+      <string>\u00A1B5</string>
+    </test>
+    <test label='U+A1B8'>
+      <string>\u00A1B8</string>
+    </test>
+    <test label='U+A1BC'>
+      <string>\u00A1BC</string>
+    </test>
+    <test label='U+A1C0'>
+      <string>\u00A1C0</string>
+    </test>
+    <test label='U+A1C4'>
+      <string>\u00A1C4</string>
+    </test>
+    <test label='U+A1C8'>
+      <string>\u00A1C8</string>
+    </test>
+    <test label='U+A1CB'>
+      <string>\u00A1CB</string>
+    </test>
+    <test label='U+A1CF'>
+      <string>\u00A1CF</string>
+    </test>
+    <test label='U+A1D2'>
+      <string>\u00A1D2</string>
+    </test>
+    <test label='U+A1D5'>
+      <string>\u00A1D5</string>
+    </test>
+    <test label='U+A1D8'>
+      <string>\u00A1D8</string>
+    </test>
+    <test label='U+A1DB'>
+      <string>\u00A1DB</string>
+    </test>
+    <test label='U+A1DF'>
+      <string>\u00A1DF</string>
+    </test>
+    <test label='U+A1E3'>
+      <string>\u00A1E3</string>
+    </test>
+    <test label='U+A1E7'>
+      <string>\u00A1E7</string>
+    </test>
+    <test label='U+A1EB'>
+      <string>\u00A1EB</string>
+    </test>
+    <test label='U+A1EF'>
+      <string>\u00A1EF</string>
+    </test>
+    <test label='U+A1F3'>
+      <string>\u00A1F3</string>
+    </test>
+    <test label='U+A1F6'>
+      <string>\u00A1F6</string>
+    </test>
+    <test label='U+A1F9'>
+      <string>\u00A1F9</string>
+    </test>
+    <test label='U+A1FC'>
+      <string>\u00A1FC</string>
+    </test>
+    <test label='U+A200'>
+      <string>\u00A200</string>
+    </test>
+    <test label='U+A203'>
+      <string>\u00A203</string>
+    </test>
+    <test label='U+A207'>
+      <string>\u00A207</string>
+    </test>
+    <test label='U+A20B'>
+      <string>\u00A20B</string>
+    </test>
+    <test label='U+A20F'>
+      <string>\u00A20F</string>
+    </test>
+    <test label='U+A212'>
+      <string>\u00A212</string>
+    </test>
+    <test label='U+A215'>
+      <string>\u00A215</string>
+    </test>
+    <test label='U+A217'>
+      <string>\u00A217</string>
+    </test>
+    <test label='U+A21B'>
+      <string>\u00A21B</string>
+    </test>
+    <test label='U+A21F'>
+      <string>\u00A21F</string>
+    </test>
+    <test label='U+A223'>
+      <string>\u00A223</string>
+    </test>
+    <test label='U+A227'>
+      <string>\u00A227</string>
+    </test>
+    <test label='U+A22B'>
+      <string>\u00A22B</string>
+    </test>
+    <test label='U+A22E'>
+      <string>\u00A22E</string>
+    </test>
+    <test label='U+A230'>
+      <string>\u00A230</string>
+    </test>
+    <test label='U+A233'>
+      <string>\u00A233</string>
+    </test>
+    <test label='U+A236'>
+      <string>\u00A236</string>
+    </test>
+    <test label='U+A23A'>
+      <string>\u00A23A</string>
+    </test>
+    <test label='U+A23D'>
+      <string>\u00A23D</string>
+    </test>
+    <test label='U+A241'>
+      <string>\u00A241</string>
+    </test>
+    <test label='U+A244'>
+      <string>\u00A244</string>
+    </test>
+    <test label='U+A247'>
+      <string>\u00A247</string>
+    </test>
+    <test label='U+A24B'>
+      <string>\u00A24B</string>
+    </test>
+    <test label='U+A24F'>
+      <string>\u00A24F</string>
+    </test>
+    <test label='U+A253'>
+      <string>\u00A253</string>
+    </test>
+    <test label='U+A257'>
+      <string>\u00A257</string>
+    </test>
+    <test label='U+A25A'>
+      <string>\u00A25A</string>
+    </test>
+    <test label='U+A25D'>
+      <string>\u00A25D</string>
+    </test>
+    <test label='U+A261'>
+      <string>\u00A261</string>
+    </test>
+    <test label='U+A265'>
+      <string>\u00A265</string>
+    </test>
+    <test label='U+A268'>
+      <string>\u00A268</string>
+    </test>
+    <test label='U+A26B'>
+      <string>\u00A26B</string>
+    </test>
+    <test label='U+A26F'>
+      <string>\u00A26F</string>
+    </test>
+    <test label='U+A272'>
+      <string>\u00A272</string>
+    </test>
+    <test label='U+A276'>
+      <string>\u00A276</string>
+    </test>
+    <test label='U+A27A'>
+      <string>\u00A27A</string>
+    </test>
+    <test label='U+A27D'>
+      <string>\u00A27D</string>
+    </test>
+    <test label='U+A281'>
+      <string>\u00A281</string>
+    </test>
+    <test label='U+A284'>
+      <string>\u00A284</string>
+    </test>
+    <test label='U+A287'>
+      <string>\u00A287</string>
+    </test>
+    <test label='U+A28A'>
+      <string>\u00A28A</string>
+    </test>
+    <test label='U+A28E'>
+      <string>\u00A28E</string>
+    </test>
+    <test label='U+A291'>
+      <string>\u00A291</string>
+    </test>
+    <test label='U+A295'>
+      <string>\u00A295</string>
+    </test>
+    <test label='U+A298'>
+      <string>\u00A298</string>
+    </test>
+    <test label='U+A29C'>
+      <string>\u00A29C</string>
+    </test>
+    <test label='U+A29F'>
+      <string>\u00A29F</string>
+    </test>
+    <test label='U+A2A3'>
+      <string>\u00A2A3</string>
+    </test>
+    <test label='U+A2A6'>
+      <string>\u00A2A6</string>
+    </test>
+    <test label='U+A2A9'>
+      <string>\u00A2A9</string>
+    </test>
+    <test label='U+A2AC'>
+      <string>\u00A2AC</string>
+    </test>
+    <test label='U+A2AF'>
+      <string>\u00A2AF</string>
+    </test>
+    <test label='U+A2B3'>
+      <string>\u00A2B3</string>
+    </test>
+    <test label='U+A2B7'>
+      <string>\u00A2B7</string>
+    </test>
+    <test label='U+A2BA'>
+      <string>\u00A2BA</string>
+    </test>
+    <test label='U+A2BE'>
+      <string>\u00A2BE</string>
+    </test>
+    <test label='U+A2C1'>
+      <string>\u00A2C1</string>
+    </test>
+    <test label='U+A2C5'>
+      <string>\u00A2C5</string>
+    </test>
+    <test label='U+A2C8'>
+      <string>\u00A2C8</string>
+    </test>
+    <test label='U+A2CB'>
+      <string>\u00A2CB</string>
+    </test>
+    <test label='U+A2CE'>
+      <string>\u00A2CE</string>
+    </test>
+    <test label='U+A2D1'>
+      <string>\u00A2D1</string>
+    </test>
+    <test label='U+A2D5'>
+      <string>\u00A2D5</string>
+    </test>
+    <test label='U+A2D9'>
+      <string>\u00A2D9</string>
+    </test>
+    <test label='U+A2DC'>
+      <string>\u00A2DC</string>
+    </test>
+    <test label='U+A2DF'>
+      <string>\u00A2DF</string>
+    </test>
+    <test label='U+A2E2'>
+      <string>\u00A2E2</string>
+    </test>
+    <test label='U+A2E5'>
+      <string>\u00A2E5</string>
+    </test>
+    <test label='U+A2E8'>
+      <string>\u00A2E8</string>
+    </test>
+    <test label='U+A2EB'>
+      <string>\u00A2EB</string>
+    </test>
+    <test label='U+A2EE'>
+      <string>\u00A2EE</string>
+    </test>
+    <test label='U+A2F1'>
+      <string>\u00A2F1</string>
+    </test>
+    <test label='U+A2F5'>
+      <string>\u00A2F5</string>
+    </test>
+    <test label='U+A2F8'>
+      <string>\u00A2F8</string>
+    </test>
+    <test label='U+A2FA'>
+      <string>\u00A2FA</string>
+    </test>
+    <test label='U+A2FC'>
+      <string>\u00A2FC</string>
+    </test>
+    <test label='U+A2FE'>
+      <string>\u00A2FE</string>
+    </test>
+    <test label='U+A301'>
+      <string>\u00A301</string>
+    </test>
+    <test label='U+A304'>
+      <string>\u00A304</string>
+    </test>
+    <test label='U+A307'>
+      <string>\u00A307</string>
+    </test>
+    <test label='U+A30A'>
+      <string>\u00A30A</string>
+    </test>
+    <test label='U+A30D'>
+      <string>\u00A30D</string>
+    </test>
+    <test label='U+A311'>
+      <string>\u00A311</string>
+    </test>
+    <test label='U+A314'>
+      <string>\u00A314</string>
+    </test>
+    <test label='U+A318'>
+      <string>\u00A318</string>
+    </test>
+    <test label='U+A31B'>
+      <string>\u00A31B</string>
+    </test>
+    <test label='U+A31F'>
+      <string>\u00A31F</string>
+    </test>
+    <test label='U+A322'>
+      <string>\u00A322</string>
+    </test>
+    <test label='U+A325'>
+      <string>\u00A325</string>
+    </test>
+    <test label='U+A328'>
+      <string>\u00A328</string>
+    </test>
+    <test label='U+A32B'>
+      <string>\u00A32B</string>
+    </test>
+    <test label='U+A32E'>
+      <string>\u00A32E</string>
+    </test>
+    <test label='U+A332'>
+      <string>\u00A332</string>
+    </test>
+    <test label='U+A336'>
+      <string>\u00A336</string>
+    </test>
+    <test label='U+A339'>
+      <string>\u00A339</string>
+    </test>
+    <test label='U+A33D'>
+      <string>\u00A33D</string>
+    </test>
+    <test label='U+A341'>
+      <string>\u00A341</string>
+    </test>
+    <test label='U+A344'>
+      <string>\u00A344</string>
+    </test>
+    <test label='U+A347'>
+      <string>\u00A347</string>
+    </test>
+    <test label='U+A34A'>
+      <string>\u00A34A</string>
+    </test>
+    <test label='U+A34E'>
+      <string>\u00A34E</string>
+    </test>
+    <test label='U+A352'>
+      <string>\u00A352</string>
+    </test>
+    <test label='U+A356'>
+      <string>\u00A356</string>
+    </test>
+    <test label='U+A359'>
+      <string>\u00A359</string>
+    </test>
+    <test label='U+A35C'>
+      <string>\u00A35C</string>
+    </test>
+    <test label='U+A35F'>
+      <string>\u00A35F</string>
+    </test>
+    <test label='U+A362'>
+      <string>\u00A362</string>
+    </test>
+    <test label='U+A366'>
+      <string>\u00A366</string>
+    </test>
+    <test label='U+A36A'>
+      <string>\u00A36A</string>
+    </test>
+    <test label='U+A36E'>
+      <string>\u00A36E</string>
+    </test>
+    <test label='U+A371'>
+      <string>\u00A371</string>
+    </test>
+    <test label='U+A374'>
+      <string>\u00A374</string>
+    </test>
+    <test label='U+A377'>
+      <string>\u00A377</string>
+    </test>
+    <test label='U+A37A'>
+      <string>\u00A37A</string>
+    </test>
+    <test label='U+A37C'>
+      <string>\u00A37C</string>
+    </test>
+    <test label='U+A37E'>
+      <string>\u00A37E</string>
+    </test>
+    <test label='U+A381'>
+      <string>\u00A381</string>
+    </test>
+    <test label='U+A385'>
+      <string>\u00A385</string>
+    </test>
+    <test label='U+A389'>
+      <string>\u00A389</string>
+    </test>
+    <test label='U+A38C'>
+      <string>\u00A38C</string>
+    </test>
+    <test label='U+A38F'>
+      <string>\u00A38F</string>
+    </test>
+    <test label='U+A392'>
+      <string>\u00A392</string>
+    </test>
+    <test label='U+A395'>
+      <string>\u00A395</string>
+    </test>
+    <test label='U+A398'>
+      <string>\u00A398</string>
+    </test>
+    <test label='U+A39C'>
+      <string>\u00A39C</string>
+    </test>
+    <test label='U+A3A0'>
+      <string>\u00A3A0</string>
+    </test>
+    <test label='U+A3A3'>
+      <string>\u00A3A3</string>
+    </test>
+    <test label='U+A3A6'>
+      <string>\u00A3A6</string>
+    </test>
+    <test label='U+A3A9'>
+      <string>\u00A3A9</string>
+    </test>
+    <test label='U+A3AC'>
+      <string>\u00A3AC</string>
+    </test>
+    <test label='U+A3AF'>
+      <string>\u00A3AF</string>
+    </test>
+    <test label='U+A3B3'>
+      <string>\u00A3B3</string>
+    </test>
+    <test label='U+A3B7'>
+      <string>\u00A3B7</string>
+    </test>
+    <test label='U+A3BB'>
+      <string>\u00A3BB</string>
+    </test>
+    <test label='U+A3BE'>
+      <string>\u00A3BE</string>
+    </test>
+    <test label='U+A3C1'>
+      <string>\u00A3C1</string>
+    </test>
+    <test label='U+A3C4'>
+      <string>\u00A3C4</string>
+    </test>
+    <test label='U+A3C7'>
+      <string>\u00A3C7</string>
+    </test>
+    <test label='U+A3CA'>
+      <string>\u00A3CA</string>
+    </test>
+    <test label='U+A3CE'>
+      <string>\u00A3CE</string>
+    </test>
+    <test label='U+A3D1'>
+      <string>\u00A3D1</string>
+    </test>
+    <test label='U+A3D5'>
+      <string>\u00A3D5</string>
+    </test>
+    <test label='U+A3D8'>
+      <string>\u00A3D8</string>
+    </test>
+    <test label='U+A3DB'>
+      <string>\u00A3DB</string>
+    </test>
+    <test label='U+A3DE'>
+      <string>\u00A3DE</string>
+    </test>
+    <test label='U+A3E1'>
+      <string>\u00A3E1</string>
+    </test>
+    <test label='U+A3E5'>
+      <string>\u00A3E5</string>
+    </test>
+    <test label='U+A3E9'>
+      <string>\u00A3E9</string>
+    </test>
+    <test label='U+A3ED'>
+      <string>\u00A3ED</string>
+    </test>
+    <test label='U+A3F1'>
+      <string>\u00A3F1</string>
+    </test>
+    <test label='U+A3F4'>
+      <string>\u00A3F4</string>
+    </test>
+    <test label='U+A3F7'>
+      <string>\u00A3F7</string>
+    </test>
+    <test label='U+A3FA'>
+      <string>\u00A3FA</string>
+    </test>
+    <test label='U+A3FD'>
+      <string>\u00A3FD</string>
+    </test>
+    <test label='U+A401'>
+      <string>\u00A401</string>
+    </test>
+    <test label='U+A405'>
+      <string>\u00A405</string>
+    </test>
+    <test label='U+A409'>
+      <string>\u00A409</string>
+    </test>
+    <test label='U+A40D'>
+      <string>\u00A40D</string>
+    </test>
+    <test label='U+A410'>
+      <string>\u00A410</string>
+    </test>
+    <test label='U+A413'>
+      <string>\u00A413</string>
+    </test>
+    <test label='U+A416'>
+      <string>\u00A416</string>
+    </test>
+    <test label='U+A419'>
+      <string>\u00A419</string>
+    </test>
+    <test label='U+A41D'>
+      <string>\u00A41D</string>
+    </test>
+    <test label='U+A420'>
+      <string>\u00A420</string>
+    </test>
+    <test label='U+A424'>
+      <string>\u00A424</string>
+    </test>
+    <test label='U+A428'>
+      <string>\u00A428</string>
+    </test>
+    <test label='U+A42B'>
+      <string>\u00A42B</string>
+    </test>
+    <test label='U+A42E'>
+      <string>\u00A42E</string>
+    </test>
+    <test label='U+A432'>
+      <string>\u00A432</string>
+    </test>
+    <test label='U+A436'>
+      <string>\u00A436</string>
+    </test>
+    <test label='U+A439'>
+      <string>\u00A439</string>
+    </test>
+    <test label='U+A43C'>
+      <string>\u00A43C</string>
+    </test>
+    <test label='U+A43F'>
+      <string>\u00A43F</string>
+    </test>
+    <test label='U+A442'>
+      <string>\u00A442</string>
+    </test>
+    <test label='U+A445'>
+      <string>\u00A445</string>
+    </test>
+    <test label='U+A448'>
+      <string>\u00A448</string>
+    </test>
+    <test label='U+A44B'>
+      <string>\u00A44B</string>
+    </test>
+    <test label='U+A44F'>
+      <string>\u00A44F</string>
+    </test>
+    <test label='U+A452'>
+      <string>\u00A452</string>
+    </test>
+    <test label='U+A456'>
+      <string>\u00A456</string>
+    </test>
+    <test label='U+A45A'>
+      <string>\u00A45A</string>
+    </test>
+    <test label='U+A45E'>
+      <string>\u00A45E</string>
+    </test>
+    <test label='U+A462'>
+      <string>\u00A462</string>
+    </test>
+    <test label='U+A465'>
+      <string>\u00A465</string>
+    </test>
+    <test label='U+A468'>
+      <string>\u00A468</string>
+    </test>
+    <test label='U+A46C'>
+      <string>\u00A46C</string>
+    </test>
+    <test label='U+A46F'>
+      <string>\u00A46F</string>
+    </test>
+    <test label='U+A472'>
+      <string>\u00A472</string>
+    </test>
+    <test label='U+A476'>
+      <string>\u00A476</string>
+    </test>
+    <test label='U+A47A'>
+      <string>\u00A47A</string>
+    </test>
+    <test label='U+A47E'>
+      <string>\u00A47E</string>
+    </test>
+    <test label='U+A482'>
+      <string>\u00A482</string>
+    </test>
+    <test label='U+A485'>
+      <string>\u00A485</string>
+    </test>
+    <test label='U+A488'>
+      <string>\u00A488</string>
+    </test>
+    <test label='U+A48B'>
+      <string>\u00A48B</string>
+    </test>
+  </testgroup>
+</ftml>
