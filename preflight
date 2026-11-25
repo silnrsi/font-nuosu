@@ -1,14 +1,14 @@
 #!/bin/sh
 
 echo "-----Updating glyph order..."
-psfsetglyphorder --header sort_design -i source/glyph_data.csv source/masters/NuosuSIL-Regular.ufo
+psfsetglyphorder -q --header sort_final -i source/glyph_data.csv source/masters/NuosuSIL-Regular.ufo
 
 echo "-----Normalizing UFOs..."
 psfnormalize -p checkfix=fix source/masters/NuosuSIL-Regular.ufo
 psfnormalize -p checkfix=fix source/masters/NuosuSIL-Bold.ufo
 
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
-psfsyncmasters source/NuosuSIL.designspace
+psfsyncmasters -q source/NuosuSIL.designspace
 
 echo "-----Updating WOFF metadata file..."
 psfmakewoffmetadata -n "nuosusil" -i "org.sil.fonts" -o source/NuosuSIL-WOFF-metadata.xml source/masters/NuosuSIL-Regular.ufo
