@@ -12,8 +12,8 @@ getufoinfo('source/masters/NuosuSIL-Regular.ufo')
 # Set up the FTML tests
 ftmlTest('tools/ftml-smith.xsl')
 
-designspace('source/' + FAMILY + 'RB.designspace',
-            target = "${DS:FILENAME_BASE}.ttf",
+designspace('source/' + FAMILY + '.designspace',
+            target = process('${DS:FILENAME_BASE}.ttf', cmd('gftools fix-nonhinting -q --no-backup ${DEP} ${TGT}')),
             version = VERSION,
             woff = woff('web/${DS:FILENAME_BASE}',
                 metadata = '../source/${DS:FAMILYNAME_NOSPC}-WOFF-metadata.xml'),
