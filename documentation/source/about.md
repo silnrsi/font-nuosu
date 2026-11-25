@@ -1,6 +1,6 @@
 ---
 title: Nuosu SIL - About
-fontversion: 2.301
+fontversion: 3.000
 ---
 
 ## About this project

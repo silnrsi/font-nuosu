@@ -1,6 +1,6 @@
 ---
 title: Nuosu SIL - Resources
-fontversion: 2.301
+fontversion: 3.000
 ---
 
 ## Requirements
@@ -15,7 +15,7 @@ Install the fonts by decompressing the .zip archive and installing the fonts usi
 
 The [SIL Yi keyboard](https://keyman.com/keyboards/sil_yi) is also available for the Yi Syllables (U+A000..U+A48F); however, it does not provide keystrokes for the Yi Radicals (U+A490..U+A4CF).
 
-For information on other keyboarding options see the overview at [Keyboard Systems Overview (ScriptSource)](https://scriptsource.org/entry/ytr8g8n6sw).
+For information on other keyboarding options see the overview at [Keyboard Systems Overview](https://writingsystems.info/topics/input/keyboards-and-tools/).
 
 See [Character set support](charset.md) for details of the Unicode characters supported by these fonts.
 
@@ -29,4 +29,4 @@ Web font versions of these fonts (in WOFF and WOFF2 formats) are available in th
 
 ## Text conversion
 
-These fonts are encoded according to [The Unicode Standard](https://unicode.org). If you have text that uses a legacy, non-Unicode encoding there are tools that can help you convert that text for use with Unicode fonts. See [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
+These fonts are encoded according to [The Unicode Standard](https://unicode.org). If you have text that uses a legacy, non-Unicode encoding there are tools that can help you convert that text for use with Unicode fonts. See [Encoding Conversion](http://writingsystems.info/topics/encoding/encoding-conversion/).

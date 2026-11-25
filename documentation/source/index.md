@@ -1,6 +1,6 @@
 ---
 title: Nuosu SIL - Documentation
-fontversion: 2.301
+fontversion: 3.000
 ---
 
 Thank you for your interest in the Nuosu SIL fonts for the Yi script.

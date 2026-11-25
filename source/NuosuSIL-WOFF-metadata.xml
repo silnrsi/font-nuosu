@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.nuosusil.2.801" />
+  <uniqueid id="org.sil.fonts.nuosusil.2.901" />
   <vendor name="SIL Global" url="https://software.sil.org/wstech/" />
   <credits>
     <credit
-      name="Peter Constable, Bobby de Vos, Alex Kotlar, Peter Martin, Becca Spalinger"
+      name="Peter Constable, Bobby de Vos, Alex Kotlar, Eric MacLeod, Peter Martin, Becca Spalinger"
       url="https://software.sil.org/wstech/"
       role="SIL font engineers and designers"
-    />
-    <credit
-      name="Eric MacLeod"
-      role="Volunteer designer (bold)"
     />
   </credits>
   <description url="https://software.sil.org/nuosu/">
@@ -20,7 +16,7 @@
   </description>
   <license url="https://openfontlicense.org" id="org.openfontlicense.1.1">
     <text lang="en">
-      Copyright (c) 1999-2025 SIL Global (https://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL". Copyright (c) 2023-2025 Eric MacLeod (bold).
+      Copyright (c) 1999-2027 SIL Global (https://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL". Copyright (c) 2023-2026 Eric MacLeod (portions of bold).
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
       
@@ -67,7 +63,7 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) 1999-2025 SIL Global, Copyright (c) 2023-2025 Eric MacLeod (bold)
+      Copyright (c) 1999-2027 SIL Global, Copyright (c) 2023-2026 Eric MacLeod (portions of bold)
     </text>
   </copyright>
   <trademark>

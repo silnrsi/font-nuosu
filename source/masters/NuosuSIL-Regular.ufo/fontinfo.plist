@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>1800</integer>
   <key>copyright</key>
-  <string>Copyright (c) 1999-2025 SIL Global, Copyright (c) 2023-2025 Eric MacLeod (bold)</string>
+  <string>Copyright (c) 1999-2027 SIL Global, Copyright (c) 2023-2026 Eric MacLeod (portions of bold)</string>
   <key>descender</key>
   <integer>-500</integer>
   <key>familyName</key>
   <string>Nuosu SIL</string>
   <key>openTypeHeadCreated</key>
-  <string>2026/11/25 10:38:52</string>
+  <string>2026/11/25 12:16:11</string>
   <key>openTypeHheaAscender</key>
   <integer>2200</integer>
   <key>openTypeHheaDescender</key>
@@ -27,7 +27,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 1999-2025 SIL Global (https://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL". Copyright (c) 2023-2025 Eric MacLeod (bold).
+  <string>Copyright (c) 1999-2027 SIL Global (https://www.sil.org/) with Reserved Font Names "Nuosu" and "SIL". Copyright (c) 2023-2026 Eric MacLeod (portions of bold).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
 
@@ -83,7 +83,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL Global: Nuosu SIL Regular: 2026</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.801</string>
+  <string>Version 2.901</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -202,24 +202,18 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>801</integer>
+  <integer>901</integer>
   <key>woffMetadataCredits</key>
   <dict>
     <key>credits</key>
     <array>
       <dict>
         <key>name</key>
-        <string>Peter Constable, Bobby de Vos, Alex Kotlar, Peter Martin, Becca Spalinger</string>
+        <string>Peter Constable, Bobby de Vos, Alex Kotlar, Eric MacLeod, Peter Martin, Becca Spalinger</string>
         <key>role</key>
         <string>SIL font engineers and designers</string>
         <key>url</key>
         <string>https://software.sil.org/wstech/</string>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string>Eric MacLeod</string>
-        <key>role</key>
-        <string>Volunteer designer (bold)</string>
       </dict>
     </array>
   </dict>

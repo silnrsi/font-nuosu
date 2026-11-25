@@ -1,6 +1,6 @@
 ---
 title: Nuosu SIL - Product Site
-fontversion: 2.301
+fontversion: 3.000
 ---
 
 ![Nuosu SIL - Sample](assets/images/silyisample.png){.fullsize}
