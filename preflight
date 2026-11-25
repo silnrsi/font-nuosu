@@ -7,6 +7,10 @@ echo "-----Normalizing UFOs..."
 psfnormalize -p checkfix=fix source/masters/NuosuSIL-Regular.ufo
 psfnormalize -p checkfix=fix source/masters/NuosuSIL-Bold.ufo
 
+echo "-----Rebuilding composites..."
+psfbuildcomp -i source/composites.txt -c -f source/masters/NuosuSIL-Regular.ufo -p backup=False -p loglevel=v
+psfbuildcomp -i source/composites.txt -c -f source/masters/NuosuSIL-Bold.ufo -p backup=False -p loglevel=v
+
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters -q source/NuosuSIL.designspace
 
